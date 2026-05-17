@@ -1,0 +1,742 @@
+reference,topic,model,svris_status,svris_reference,field_title,field_authors,field_year,field_venue,field_id,candidate_title,candidate_authors,candidate_year,candidate_venue,candidate_doi,candidate_url,candidate_source,candidate_matches,candidate_contradictions,candidate_contains,candidate_absent,candidate_unconfirmed,cmp_title_citation,cmp_title_candidate,cmp_authors_citation,cmp_authors_candidate,cmp_year_citation,cmp_year_candidate,cmp_venue_citation,cmp_venue_candidate,cmp_id_citation,cmp_id_candidate,match_set_size,contained_set_size,total_candidates,sources_queried,processing_time_ms,svris_message,score,error_distance
+"Anderson, C. (2018). ""The Impact of Biometric Voter Registration on Voter Turnout."" Journal of Voting Systems, 64(2), 147-164.",Biometric voter registration,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Berman, J. (2017). ""The Effect of Biometric Voter Registration on Voter Registration Rates."" Journal of Public Administration Research and Theory, 27(2), 257-275.",Biometric voter registration,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Chen, Y. (2019). ""The Role of Biometric Voter Registration in Reducing Voter Suppression."" Journal of Voting Systems, 65(1), 1-15.",Biometric voter registration,llama_3_2_1b,unverified,,CONTRADICTION,UNCONFIRMED,UNCONFIRMED,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Duggan, B. (2018). ""The Impact of Biometric Voter Registration on Voter Turnout in the United States."" Journal of Public Opinion Research, 80(4), 931-953.",Biometric voter registration,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Gans, M. (2017). ""The Effect of Biometric Voter Registration on Voter Registration Rates in the United States."" Journal of Voting Systems, 63(2), 147-164.",Biometric voter registration,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Herring, R. (2018). ""The Impact of Biometric Voter Registration on Voter Turnout in the United States."" Journal of Public Administration Research and Theory, 28(1), 1-25.",Biometric voter registration,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Johnson, K. (2019). ""The Role of Biometric Voter Registration in Reducing Voter Suppression in the United States."" Journal of Voting Systems, 65(3), 1-15.",Biometric voter registration,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTAINS,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Karp, M. (2018). ""The Effect of Biometric Voter Registration on Voter Registration Rates in the United States."" Journal of Public Administration Research and Theory, 28(2), 257-275.",Biometric voter registration,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Lee, J. (2019). ""The Impact of Biometric Voter Registration on Voter Turnout in the United States."" Journal of Voting Systems, 65(1), 1-15.",Biometric voter registration,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+IPCC (2013). Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press.,Climate change,llama_3_2_1b,needs-human,,CONTAINS,CONTAINS,MATCH,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.467,0.533
+"Hansen, J. E., et al. (2008). Anthropogenic global warming. Science, 319(5882), 1737-1742.",Climate change,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+NASA (2019). Climate Change and the Future of the Planet. National Aeronautics and Space Administration.,Climate change,llama_3_2_1b,unverified,,CONTRADICTION,MATCH,UNCONFIRMED,MATCH,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"IPCC (2014). Climate Change 2014: Impacts, Vulnerability, and Adaptation. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press.",Climate change,llama_3_2_1b,verified-with-error,,CONTAINS,MATCH,MATCH,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.617,0.383
+"IPCC (2019). Global Warming of 1.5°C. An IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty. Cambridge University Press.",Climate change,llama_3_2_1b,verified-with-error,,CONTAINS,MATCH,MATCH,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.617,0.383
+"IPCC (2018). Global Warming of 1.5°C. An IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty. Cambridge University Press.",Climate change,llama_3_2_1b,verified-with-error,,CONTAINS,MATCH,MATCH,CONTAINS,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.7,0.3
+"IPCC (2019). Climate Change and Land: an IPCC special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems. Cambridge University Press.",Climate change,llama_3_2_1b,verified-with-error,,CONTAINS,MATCH,MATCH,MATCH,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.783,0.217
+IPCC (2019). Climate Change and Human Health. Cambridge University Press.,Climate change,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, S. L., & others. (2017). Climate change and agriculture: A review of the evidence. Journal of Agricultural and Environmental Science, 1(1), 1-14.",Climate change adaptation in agriculture,llama_3_2_1b,unverified,,CONTRADICTION,MATCH,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Baudry, J., & others. (2018). Climate change and agricultural productivity: A review of the literature. Journal of Agricultural and Environmental Science, 1(2), 1-12.",Climate change adaptation in agriculture,llama_3_2_1b,unverified,,CONTAINS,CONTRADICTION,CONTAINS,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Cline, M. C., & others. (2018). Climate change and agricultural productivity: A review of the evidence. Journal of Agricultural and Environmental Science, 1(3), 1-14.",Climate change adaptation in agriculture,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+FAO. (2019). Climate change and agriculture: A global assessment. Food and Agriculture Organization of the United Nations.,Climate change adaptation in agriculture,llama_3_2_1b,unverified,,CONTRADICTION,MATCH,UNCONFIRMED,MATCH,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Girma, S., & others. (2019). Climate change and agricultural productivity in Africa: A review of the evidence. Journal of Agricultural and Environmental Science, 1(4), 1-12.",Climate change adaptation in agriculture,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Haddad, M., & others. (2018). Climate change and agricultural productivity in the Sahel region: A review of the evidence. Journal of Agricultural and Environmental Science, 1(5), 1-14.",Climate change adaptation in agriculture,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"IPCC. (2019). Climate Change and Land: an IPCC special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems. Cambridge University Press.",Climate change adaptation in agriculture,llama_3_2_1b,verified,,MATCH,CONTAINS,MATCH,CONTAINS,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.783,0.217
+"Kassam, V., & others. (2018). Climate change and agricultural productivity in Asia: A review of the evidence. Journal of Agricultural and Environmental Science, 1(6), 1-12.",Climate change adaptation in agriculture,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Mearns, E. J., & others. (2018). Climate change and agricultural productivity in the Amazon: A review of the evidence. Journal of Agricultural and Environmental Science, 1(7), 1-14.",Climate change adaptation in agriculture,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, S. M., & Pretty, J. (2011). The impact of climate change on smallholder agriculture. Journal of Environmental Economics, 60(2), 133-144. doi: 10.1016/j.jecono.2010.09.002",Climate-smart agriculture for smallholder farmers,llama_3_2_1b,unverified,,CONTAINS,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Baudy, A., & Smit, P. (2011). Climate change, climate-smart agriculture and smallholder farmers: A review of the literature. Journal of Sustainable Agriculture, 35(2), 147-164. doi: 10.1080/0894415X.2011.600155",Climate-smart agriculture for smallholder farmers,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Bristow, L. (2012). Climate-smart agriculture for smallholder farmers: A review of the literature. Journal of Agricultural and Environmental Science, 2012, 1-13. doi: 10.1155/2012/2012/2012",Climate-smart agriculture for smallholder farmers,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Cline, C. M., & Pretty, J. (2011). Climate change, climate-smart agriculture and smallholder farmers: A review of the literature. Journal of Environmental Economics, 60(2), 145-162. doi: 10.1016/j.jecono.2010.09.003",Climate-smart agriculture for smallholder farmers,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+FAO (2011). Climate change and smallholder agriculture: A review of the literature. Food and Agriculture Organization of the United Nations.,Climate-smart agriculture for smallholder farmers,llama_3_2_1b,unverified,,CONTAINS,MATCH,UNCONFIRMED,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Girma, S., & Smit, P. (2012). Climate-smart agriculture for smallholder farmers: A review of the literature. Journal of Sustainable Development, 5(1), 1-22. doi: 10.1080/17515585.2011.655151",Climate-smart agriculture for smallholder farmers,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Haddad, M., & Pretty, J. (2012). Climate-smart agriculture for smallholder farmers: A review of the literature. Journal of Environmental Management, 99(1), 1-13. doi: 10.1016/j.jenvman.2011.07.012",Climate-smart agriculture for smallholder farmers,llama_3_2_1b,needs-human,,CONTRADICTION,CONTRADICTION,CONTAINS,MATCH,MATCH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.167,0.833
+"Kassie, M., & Pretty, J. (2012). Climate-smart agriculture for smallholder farmers: A review of the literature. Journal of Agricultural and Environmental Science, 2012, 1-13. doi: 10.1155/2012/2012",Climate-smart agriculture for smallholder farmers,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Pretty, J., & Smit, P. (2011). Climate change, climate-smart agriculture and smallholder farmers: A review of the literature. Journal of Environmental Economics, 60(2), 145-162. doi: 10.1016/j.jecono.2010.09.003",Climate-smart agriculture for smallholder farmers,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, C. J. (2010). ""The Impact of Campaign Finance Reform on the 2008 Presidential Election."" Journal of Politics, 72(4), 1041-1056. doi: 10.1353/jpol.2010.0121",Democratic elections,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Bartels, L. (2011). ""Electoral Systems and the 2010 European Parliament Election."" European Journal of Political Research, 50(2), 147-164. doi: 10.1111/j.1467-8701.2010.01129.x",Democratic elections,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Breen, D. (2013). ""The Impact of the 2012 Presidential Election on the 2012 Congressional Elections."" Journal of Politics, 75(4), 1047-1064. doi: 10.1353/jpol.2013.0124",Democratic elections,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Caro, M. A. (2011). ""The 2010 Congressional Elections: A Study of the Impact of Campaign Finance Reform."" Journal of Politics, 73(2), 432-446. doi: 10.1353/jpol.2011.0011",Democratic elections,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Dahl, R. A. (1961). ""The Problem of Representation."" In A. R. Dahl (Ed.), Political Parties and Democracy (pp. 1-29). Yale University Press.",Democratic elections,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Diamond, L. (2010). ""The 2010 Congressional Elections: A Study of the Impact of Campaign Finance Reform."" Journal of Politics, 72(4), 1057-1066. doi: 10.1353/jpol.2010.0123",Democratic elections,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Fiorina, P. (2011). ""The 2010 Congressional Elections: A Study of the Impact of Campaign Finance Reform."" Journal of Politics, 73(2), 447-462. doi: 10.1353/jpol.2011.0012",Democratic elections,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Hartz, R. (2011). ""The 2010 Congressional Elections: A Study of the Impact of Campaign Finance Reform."" Journal of Politics, 73(2), 463-476. doi: 10.1353/jpol.2011.0013",Democratic elections,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Lijphart, A. S. (2011). ""The 2010 Congressional Elections: A Study of the Impact of Campaign Finance Reform."" Journal of Politics, 73(2), 477-494. doi: 10.1353/jpol.2011.0014",Democratic elections,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, J. (2018). The impact of mobile payments on consumer behavior. Journal of Consumer Research, 45(3), 531-553. doi: 10.1177/0093864817749113",Digital financial services,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Bajaj, A., & Chakraborty, S. (2018). Digital payments and financial inclusion: A review of the literature. Journal of Financial Services Research, 51(1), 1-24. doi: 10.1007/s10694-017-0204-3",Digital financial services,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Chen, Y., & Lee, Y. (2019). The effects of mobile banking on financial inclusion: A systematic review. Journal of Financial Inclusion, 6(2), 1-24. doi: 10.1007/s40800-019-00133-4",Digital financial services,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Dabholkar, P. K., & Srinivasan, S. (2018). The impact of digital financial services on financial inclusion: A systematic review. Journal of Financial Services Research, 51(1), 25-48. doi: 10.1007/s10694-017-0205-3",Digital financial services,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Gao, Y., & Li, X. (2019). The role of digital payments in promoting financial inclusion: A review of the literature. Journal of Financial Inclusion, 6(2), 1-24. doi: 10.1007/s40800-019-00134-3",Digital financial services,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Hwang, J., & Lee, Y. (2018). The impact of mobile banking on financial inclusion: A systematic review. Journal of Financial Services Research, 51(1), 25-48. doi: 10.1007/s10694-017-0206-3",Digital financial services,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Kim, J., & Lee, Y. (2019). The effects of digital financial services on financial inclusion: A systematic review. Journal of Financial Inclusion, 6(2), 1-24. doi: 10.1007/s40800-019-00135-3",Digital financial services,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Lee, Y., & Kim, J. (2018). The impact of digital payments on financial inclusion: A systematic review. Journal of Financial Services Research, 51(1), 25-48. doi: 10.1007/s10694-017-0207-3",Digital financial services,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Li, X., & Zhang, Y. (2019). The role of digital financial services in promoting financial inclusion: A review of the literature. Journal of Financial Inclusion, 6(2), 1-24. doi: 10.1007/s40800-019-00136-3",Digital financial services,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Auerbach, A. J. (2013). The economics of climate change. Journal of Economic Perspectives, 27(3), 3-24.",Economics,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Becker, G. S. (1968). A theory of economic growth. American Economic Review, 58(2), 263-270.",Economics,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Diamond, D. J. (1997). The role of institutions in economic development. Journal of Economic Perspectives, 11(3), 3-26.",Economics,llama_3_2_1b,unverified,,MATCH,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Easterlin, R. A. (1974). Does economic growth improve the human lot? New York: Norton.",Economics,llama_3_2_1b,needs-human,,CONTAINS,MATCH,MATCH,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.433,0.567
+"Friedman, M. (1962). Capitalism and freedom. Chicago: University of Chicago Press.",Economics,llama_3_2_1b,verified-with-error,,MATCH,CONTAINS,UNCONFIRMED,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.467,0.533
+"Krugman, P. (1991). Advanced topics in macroeconomics. New York: W.W. Norton.",Economics,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Lucas, R. J. B. (1976). Money demand and the price of living. Journal of Political Economy, 84(3), 567-598.",Economics,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, L. (2018). The impact of technology on student learning outcomes. Journal of Educational Psychology, 110(2), 241-253.",Education,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Bandura, A. (1977). Social Learning Theory. Englewood Cliffs, NJ: Prentice Hall.",Education,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Bloom, B. S. (1956). Taxonomy of educational objectives: The classification of educational goals. Journal of Educational Psychology, 47(6), 481-586.",Education,llama_3_2_1b,verified,,MATCH,MATCH,MATCH,MATCH,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,0.0
+"Brown, A. L. (2007). The impact of technology on student learning outcomes. Journal of Educational Technology Development and Exchange, 1(1), 1-15.",Education,llama_3_2_1b,verified-with-error,,MATCH,MATCH,MATCH,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.6,0.4
+"Dweck, C. S. (2006). Mindset: The new psychology of success. New York: Random House.",Education,llama_3_2_1b,unverified,,CONTAINS,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Hattie, J. (2009). Visible learning: A synthesis of over 800 meta-analyses relating to achievement. Routledge.",Education,llama_3_2_1b,verified,,MATCH,MATCH,MATCH,MATCH,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,0.0
+"Kohn, A. (2000). The case against standardized testing. Phi Delta Kappan, 81(6), 365-370.",Education,llama_3_2_1b,verified-with-error,,MATCH,MATCH,ABBREV,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.75,0.25
+"Lave, J. (1990). Bringing it all back in: Social practices in the classroom. Cambridge University Press.",Education,llama_3_2_1b,verified-with-error,,CONTAINS,MATCH,MATCH,CONTAINS,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.733,0.267
+"Lave, J., & Wenger, E. (1991). Situated learning: Legitimate peripheral participation. Cambridge University Press.",Education,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, J. (2018). Energy efficiency in buildings: A review of the literature. Energy and Buildings, 172, 103-114.",Energy,llama_3_2_1b,verified,,MATCH,MATCH,MATCH,MATCH,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,0.0
+"Bocken, N. M. P., & Rana, P. (2017). Sustainable energy and the triple bottom line: A systematic review. Journal of Cleaner Production, 142, 1035-1045.",Energy,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Chen, Y., & Wang, Y. (2019). Energy storage in renewable energy systems: A review of the current state of the art. Energy & Environmental Science, 12(10), 3421-3435.",Energy,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"De La Rosa, M. (2018). Energy policy and climate change: A review of the literature. Journal of Cleaner Production, 183, 1235-1245.",Energy,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Dincer, I. (2017). Energy efficiency in buildings: A review of the literature. Energy and Buildings, 147, 103-114.",Energy,llama_3_2_1b,needs-human,,CONTAINS,UNCONFIRMED,CONTRADICTION,CONTAINS,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.067,0.933
+"Gao, Y., & Li, X. (2019). Energy efficiency in buildings: A review of the literature. Energy and Buildings, 193, 103-114.",Energy,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Hall, J. (2018). Energy policy and climate change: A review of the literature. Journal of Cleaner Production, 183, 1235-1245.",Energy,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Li, X., & Wang, Y. (2019). Energy storage in renewable energy systems: A review of the current state of the art. Energy & Environmental Science, 12(10), 3421-3435.",Energy,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Mazzotta, G. (2018). Energy efficiency in buildings: A review of the literature. Energy and Buildings, 172, 103-114.",Energy,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, J. L., & Boucher, D. H. (2017). Climate change and its impacts on ecosystems. Journal of Environmental Science and Health, Part C, 35(1), 1-12.",Environmental Science,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,CONTAINS,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Bierman, C. M., & Bierman, J. (2018). The impact of climate change on water quality. Journal of Water Resources, 33(2), 1-12.",Environmental Science,llama_3_2_1b,unverified,,CONTAINS,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Cramer, W., & Boucher, D. H. (2018). The role of climate change in shaping the distribution and abundance of species. Nature Climate Change, 8(10), 1-11.",Environmental Science,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,ABBREV,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Davenport, J. (2019). The effects of climate change on forest ecosystems. Environmental Science and Technology, 53(11), 1-12.",Environmental Science,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Galloway, R. N., & Boucher, D. H. (2018). The impact of climate change on soil carbon sequestration. Journal of Environmental Science and Health, Part C, 36(1), 1-12.",Environmental Science,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Haines, A. (2019). The role of climate change in shaping the distribution and abundance of invasive species. Journal of Invasive Species and Management, 10(1), 1-12.",Environmental Science,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Jones, C. M., & Boucher, D. H. (2018). The impact of climate change on water resources. Journal of Water Resources, 33(2), 1-12.",Environmental Science,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Kremen, C., & Boucher, D. H. (2018). The role of climate change in shaping the distribution and abundance of pollinators. Journal of Environmental Science and Health, Part C, 36(1), 1-12.",Environmental Science,llama_3_2_1b,unverified,,MATCH,CONTRADICTION,CONTRADICTION,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Larkin, J. (2019). The effects of climate change on coastal ecosystems. Journal of Coastal Research, 35(2), 1-12.",Environmental Science,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, L. (2017). Girls' education in the 21st century: A review of the literature. Journal of Education and Human Development, 8(1), 1-14.",Girls education,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,ABBREV,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Brint, J. (2006). The impact of girls' education on women's empowerment. Journal of Education and Human Development, 1(1), 1-15.",Girls education,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Brown, L. (2018). Girls' education and economic empowerment: A review of the literature. Journal of Economic Issues, 52(2), 1-20.",Girls education,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Chen, Y. (2015). The effects of girls' education on girls' health and well-being. Journal of Adolescent Health, 56(3), 341-346.",Girls education,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Duflo, E., & Glennerster, R. (2000). Economic incentives for girls' education. Journal of Economic Perspectives, 14(3), 23-44.",Girls education,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Gershuny, D. (2017). Girls' education and the global economy. Journal of Economic Issues, 51(1), 1-20.",Girls education,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Hagen, C. (2018). Girls' education and girls' empowerment: A review of the literature. Journal of Education and Human Development, 9(1), 1-15.",Girls education,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Kabeer, N. (2017). The impact of girls' education on women's economic empowerment. Journal of Economic Issues, 51(2), 1-20.",Girls education,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Lillard, A. S. (2018). Girls' education and girls' health: A review of the literature. Journal of Adolescent Health, 63(3), 341-346.",Girls education,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+American Heart Association. (2017). Healthy Eating Plate. American Heart Association.,Health,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Bajaj, A. A., & Chawla, A. (2018). The impact of physical activity on cardiovascular disease. Journal of the American College of Cardiology, 71(11), 1331-1338.",Health,llama_3_2_1b,unverified,,CONTRADICTION,MATCH,UNCONFIRMED,MATCH,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.133,0.867
+Centers for Disease Control and Prevention. (2020). Healthy Eating Plate. Centers for Disease Control and Prevention.,Health,llama_3_2_1b,unverified,,CONTAINS,CONTRADICTION,ABBREV,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Cohen, J. J., & Blascovich, J. (2010). The effects of mindfulness meditation on the autonomic nervous system. Journal of Psychophysiology, 24(1), 1-13.",Health,llama_3_2_1b,unverified,,CONTRADICTION,MATCH,UNCONFIRMED,MATCH,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.133,0.867
+"DeLorme, D. M., & Kuo, F. E. (2018). Built environment and physical activity: A systematic review. Journal of Physical Activity and Health, 15(10), 1231-1242.",Health,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Haskell, W. L., & Lee, I. M. (2018). Physical activity and health: A review of the evidence. Journal of the American Medical Association, 320(11), 1131-1141.",Health,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Haines, P. S., & Kuo, F. E. (2018). The impact of urban design on physical activity. Journal of Environmental Psychology, 55, 102-112.",Health,llama_3_2_1b,unverified,,CONTRADICTION,CONTAINS,CONTRADICTION,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Lee, I. M., & Haskell, W. L. (2018). Physical activity and health: A review of the evidence. Journal of the American Medical Association, 320(11), 1142-1149.",Health,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,ABBREV,CONTAINS,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Marmot, M. G., & Shipman, K. (2018). The impact of physical activity on health. Journal of the Royal Society of Medicine, 111(10), 531-538.",Health,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, R. D., & May, R. M. (1982). Infectious diseases: An introduction to epidemiology. W.H. Freeman and Company.",Infectious disease,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,ABBREV,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, R. D., & May, R. M. (1991). Population biology of infectious diseases: Part 1. Annual Review of Ecology and Systematics, 22, 151-165.",Infectious disease,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, R. D., & May, R. M. (1995). Population biology of infectious diseases: Part 2. Annual Review of Ecology and Systematics, 26, 323-351.",Infectious disease,llama_3_2_1b,unverified,,CONTAINS,MATCH,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, R. D., & May, R. M. (1996). Infectious diseases: An introduction to epidemiology. W.H. Freeman and Company.",Infectious disease,llama_3_2_1b,unverified,,CONTAINS,MATCH,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, R. D., & May, R. M. (2001). Population biology of infectious diseases: Part 3. Annual Review of Ecology and Systematics, 32, 289-313.",Infectious disease,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, R. D., & May, R. M. (2002). Infectious diseases: An introduction to epidemiology. W.H. Freeman and Company.",Infectious disease,llama_3_2_1b,unverified,,CONTAINS,MATCH,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, R. D., & May, R. M. (2003). Population biology of infectious diseases: Part 4. Annual Review of Ecology and Systematics, 34, 257-284.",Infectious disease,llama_3_2_1b,needs-human,,CONTAINS,CONTRADICTION,MATCH,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.1,0.9
+"Anderson, R. D., & May, R. M. (2004). Infectious diseases: An introduction to epidemiology. W.H. Freeman and Company.",Infectious disease,llama_3_2_1b,unverified,,CONTAINS,MATCH,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, R. D., & May, R. M. (2005). Population biology of infectious diseases: Part 5. Annual Review of Ecology and Systematics, 36, 257-284.",Infectious disease,llama_3_2_1b,unverified,,CONTRADICTION,MATCH,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Ahmed, S. M., & Kumar, N. (2018). Insecticide-treated bed nets for malaria control: A review. Journal of Tropical Medicine and Hygiene, 19(2), 1-11.",Insecticide-treated bed nets for malaria,llama_3_2_1b,unverified,,CONTAINS,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.167,0.833
+"Bock, C. J., & Gudmundsson, S. (2017). Insecticide-treated bed nets for malaria control: A systematic review. Malaria Journal, 16(1), 1-13.",Insecticide-treated bed nets for malaria,llama_3_2_1b,unverified,,CONTAINS,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Chitnis, N. R., & Kumar, N. (2018). Insecticide-treated bed nets for malaria control: A review of the evidence. Journal of Tropical Medicine and Hygiene, 19(1), 1-11.",Insecticide-treated bed nets for malaria,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Dondla, S. S., & Kumar, N. (2018). Insecticide-treated bed nets for malaria control: A review of the evidence. Journal of Tropical Medicine and Hygiene, 19(2), 1-11.",Insecticide-treated bed nets for malaria,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Gudmundsson, S., & Bock, C. J. (2017). Insecticide-treated bed nets for malaria control: A systematic review. Malaria Journal, 16(1), 1-13.",Insecticide-treated bed nets for malaria,llama_3_2_1b,unverified,,CONTRADICTION,CONTAINS,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Hwang, J., & Kim, J. (2018). Insecticide-treated bed nets for malaria control: A review of the evidence. Journal of Tropical Medicine and Hygiene, 19(1), 1-11.",Insecticide-treated bed nets for malaria,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTRADICTION,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Kumar, N., & Bock, C. J. (2018). Insecticide-treated bed nets for malaria control: A review of the evidence. Journal of Tropical Medicine and Hygiene, 19(2), 1-11.",Insecticide-treated bed nets for malaria,llama_3_2_1b,unverified,,CONTAINS,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Kumar, N., & Bock, C. J. (2017). Insecticide-treated bed nets for malaria control: A systematic review. Malaria Journal, 16(1), 1-13.",Insecticide-treated bed nets for malaria,llama_3_2_1b,unverified,,CONTAINS,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Mabaso, A. S., & Kumar, N. (2018). Insecticide-treated bed nets for malaria control: A review of the evidence. Journal of Tropical Medicine and Hygiene, 19(1), 1-11.",Insecticide-treated bed nets for malaria,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTRADICTION,MATCH,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, D. C., & Anderson, R. H. (2003). Malaria prevention and control. Journal of Tropical Medicine and Hygiene, 102(2), 147-155.",Malaria prevention,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Bock, C. J., & Bock, R. (2003). Malaria prevention and control. Journal of Tropical Medicine and Hygiene, 102(2), 156-165.",Malaria prevention,llama_3_2_1b,unverified,,MATCH,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+Centers for Disease Control and Prevention. (2019). Malaria prevention and control. Retrieved from <https://www.cdc.gov/malaria/index.html>,Malaria prevention,llama_3_2_1b,unverified,,MATCH,CONTAINS,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Dondla, A. S., & Mabaso, A. (2018). Malaria prevention and control: A review of the current situation. Journal of Tropical Medicine and Hygiene, 115(2), 147-155.",Malaria prevention,llama_3_2_1b,needs-human,,CONTAINS,MATCH,CONTRADICTION,ABSENT,MATCH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.5,0.5
+FAO. (2019). Malaria prevention and control. Retrieved from <https://www.fao.org/3/a-i-11434-en.pdf>,Malaria prevention,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Gething, S. W., & Kenchington, R. (2018). Malaria prevention and control: A review of the evidence. Journal of Tropical Medicine and Hygiene, 115(2), 156-165.",Malaria prevention,llama_3_2_1b,verified,,MATCH,MATCH,MATCH,CONTAINS,MATCH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.925,0.075
+"Hote, H., & Sina, J. (2018). Malaria prevention and control: A review of the current situation. Journal of Tropical Medicine and Hygiene, 115(2), 166-175.",Malaria prevention,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Kham, P., & Sivane, S. (2018). Malaria prevention and control: A review of the current situation. Journal of Tropical Medicine and Hygiene, 115(2), 176-185.",Malaria prevention,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Lanz, B., & Lanz, C. (2018). Malaria prevention and control: A review of the current situation. Journal of Tropical Medicine and Hygiene, 115(2), 186-195.",Malaria prevention,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Aghion, P., & Robinson, J. (2006). The Economics of Microfinance. Journal of Economic Literature, 44(2), 361-388.",Microfinance loan repayment,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"De Haan, G., & van der Heijden, V. G. (2006). Microfinance and the Poor: A Review of the Literature. Journal of Economic Literature, 44(2), 389-414.",Microfinance loan repayment,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Gertler, P. (2003). The Role of Microfinance in the Development of Financial Services. Journal of Economic Development, 28(2), 147-164.",Microfinance loan repayment,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Goyal, S., & Ray, D. (2006). Microfinance and the Poor: A Review of the Literature. Journal of Economic Literature, 44(2), 415-444.",Microfinance loan repayment,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,ABBREV,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Hossain, M., & Islam, M. (2007). Microfinance and the Poor: A Review of the Literature. Journal of Economic Development, 32(2), 147-164.",Microfinance loan repayment,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Easterlin, R. A. (1974). Does economic growth improve the human lot? Cambridge, MA: Harvard University Press.",Economics,llama_3_2_1b,verified-with-error,,CONTAINS,MATCH,MATCH,CONTAINS,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.7333,0.2667
+"Gordon, R. (1974). The economics of economic growth. Journal of Economic Perspectives, 8(1), 3-24.",Economics,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Khandia, S., & Saeed, M. (2006). Microfinance and the Poor: A Review of the Literature. Journal of Economic Development, 31(2), 147-164.",Microfinance loan repayment,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Lipton, D. (2003). The New Poor and the New Globalization: The New South African Experience. Journal of Economic Development, 28(2), 147-164.",Microfinance loan repayment,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Mordawia, A. (2006). Microfinance and the Poor: A Review of the Literature. Journal of Economic Development, 31(2), 147-164.",Microfinance loan repayment,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"O'Leary, D. (2006). Microfinance and the Poor: A Review of the Literature. Journal of Economic Development, 31(2), 147-164.",Microfinance loan repayment,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, J. (2018). ""Mini-grid electrification: A review of the current state and future prospects."" Journal of Renewable Energy, 9(2), 1-12.",Mini-grid electrification,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTAINS,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Bocken, N. M., & Rana, P. (2018). ""Mini-grid electrification: A review of the literature."" Journal of Cleaner Production, 183, 1235-1245.",Mini-grid electrification,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,CONTAINS,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Chen, Y., & Zhang, Y. (2019). ""Mini-grid electrification: A review of the technical and economic aspects."" Energy & Environmental Science, 12(10), 4321-4333.",Mini-grid electrification,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Dincer, I. (2018). ""Mini-grid electrification: A review of the current state and future prospects."" Journal of Power and Energy Engineering, 10(2), 1-12.",Mini-grid electrification,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Gao, Y., & Li, X. (2019). ""Mini-grid electrification: A review of the technical and economic aspects."" Energy & Environmental Science, 12(10), 4334-4345.",Mini-grid electrification,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Hossain, M., & Islam, M. (2018). ""Mini-grid electrification: A review of the current state and future prospects."" Journal of Cleaner Production, 183, 1246-1255.",Mini-grid electrification,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Li, X., & Zhang, Y. (2019). ""Mini-grid electrification: A review of the technical and economic aspects."" Energy & Environmental Science, 12(10), 4346-4357.",Mini-grid electrification,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Li, X., & Zhang, Y. (2020). ""Mini-grid electrification: A review of the current state and future prospects."" Journal of Renewable Energy, 29(2), 1-12.",Mini-grid electrification,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Liu, Y., & Zhang, Y. (2019). ""Mini-grid electrification: A review of the technical and economic aspects."" Energy & Environmental Science, 12(10), 4358-4369.",Mini-grid electrification,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Anderson, J. (2018). Mobile banking: A review of the literature. Journal of Financial Services Research, 41(1), 1-15.",Mobile banking,llama_3_2_1b,unverified,,CONTRADICTION,MATCH,CONTRADICTION,UNCONFIRMED,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Bajaj, S., & Chakraborty, S. (2017). Mobile banking: An empirical study of user behavior and satisfaction. Journal of Consumer Research, 44(2), 251-265.",Mobile banking,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTAINS,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Chen, Y., & Lee, Y. (2019). Mobile banking: A study of user experience and perceived benefits. Journal of Banking & Finance, 84, 102-115.",Mobile banking,llama_3_2_1b,unverified,,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Dey, K., & Kumar, A. (2018). Mobile banking: A study of user behavior and acceptance. Journal of Business Research, 85, 241-253.",Mobile banking,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Gao, Y., & Li, X. (2019). Mobile banking: An empirical study of user behavior and perceived benefits. Journal of Financial Inclusion, 6(2), 1-15.",Mobile banking,llama_3_2_1b,unverified,,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,1.0
+"Hwang, J., & Lee, S. (2018). Mobile banking: A study of user experience and perceived benefits. Journal of Consumer Behavior, 16(2), 147-158.",Mobile banking,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,An empirical study on trust in mobile banking: A developing country perspective,RF Malaquias; Y Hwang,2016,Computers in Human Behavior,,https://www.sciencedirect.com/science/article/pii/S0747563215301151,GOOGLE,0,4,0,1,0,Mobile banking: A study of user experience and perceived benefits.,An empirical study on trust in mobile banking: A developing country perspective,"Hwang, J.; Lee, S.",RF Malaquias; Y Hwang,2018,2016,Journal of Consumer Behavior,Computers in Human Behavior,,https://www.sciencedirect.com/science/article/pii/S0747563215301151,0,0,3,GOOGLE,0,"✗ Title | ✗ Authors | ✗ Year | ✗ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Hwang and Lee (2018) titled ""Mobile banking: A study of user experience and perceived benefits"" in the Journal of Consumer Behavior. The best available match was a different article with distinct authors, title, year, and journal.
+
+### Details
+A search found a similar article titled ""An empirical study on trust in mobile banking: A developing country perspective"" by Malaquias and Y. Hwang published in 2016 in Computers in Human Behavior. However, this differs significantly from the cited reference: the titles focus on different topics, the authors do not match (only the surname Hwang appears but with different initials), the publication years differ by two years, and the journals are distinct. No identifier was available to confirm the citation. These contradictions led to the conclusion that the original reference could not be verified.
+
+- https://www.sciencedirect.com/science/article/pii/S0747563215301151",0.0,1.0
+"Kim, J., & Lee, Y. (2019). Mobile banking: An empirical study of user behavior and satisfaction. Journal of Financial Services Marketing, 24(2), 147-158.",Mobile banking,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,CONTAINS,CONTAINS,ABSENT,Mobile banking adoption in an emerging economy: An empirical analysis of young Indian consumers,Richa Priya; Aradhana Gandhi; Ateeque Shaikh,2018,Benchmarking An International Journal,,https://www.emerald.com/insight/content/doi/10.1108/BIJ-01-2016-0009/full/html,GOOGLE,0,2,2,1,0,Mobile banking: An empirical study of user behavior and satisfaction.,Mobile banking adoption in an emerging economy: An empirical analysis of young Indian consumers,"Kim, J.; Lee, Y.",Richa Priya; Aradhana Gandhi; Ateeque Shaikh,2019,2018,Journal of Financial Services Marketing,Benchmarking An International Journal,,https://www.emerald.com/insight/content/doi/10.1108/BIJ-01-2016-0009/full/html,0,0,3,GOOGLE,0,"✗ Title | ✗ Authors | ◐ Year | ◐ Venue | ○ ID
+
+### Summary
+The reference could not be verified as it does not match any known records. The title and authors differ significantly from the closest available article, indicating they are different works.
+
+### Details
+A matching record was found titled ""Mobile banking adoption in an emerging economy: An empirical analysis of young Indian consumers"" published in 2018 in Benchmarking An International Journal by Richa Priya, Aradhana Gandhi, and Ateeque Shaikh. This differs from the cited article's title, authors (Kim, J. and Lee, Y.), and publication year (2019). Although both are journal articles related to mobile banking and share the same publisher, the differences in title focus, author names, and journal titles confirm they are not the same article.
+
+- https://www.emerald.com/insight/content/doi/10.1108/BIJ-01-2016-0009/full/html",0.0,1.0
+"Lee, J., & Lee, Y. (2018). Mobile banking: A study of user experience and perceived benefits. Journal of Business Research, 85, 241-253.",Mobile banking,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,CONTRADICTION,MATCH,ABSENT,A unified perspective on the factors influencing usage intention toward mobile financial services,Y. K. Lee; J. H. Park; N. Chung; A. Blakeney,2012,Journal of Business Research,,https://www.sciencedirect.com/science/article/pii/S0148296311000774,GOOGLE,1,3,0,1,0,Mobile banking: A study of user experience and perceived benefits.,A unified perspective on the factors influencing usage intention toward mobile financial services,"Lee, J.; Lee, Y.",Y. K. Lee; J. H. Park; N. Chung; A. Blakeney,2018,2012,Journal of Business Research,Journal of Business Research,,https://www.sciencedirect.com/science/article/pii/S0148296311000774,0,0,3,GOOGLE,0,"✗ Title | ✗ Authors | ✗ Year | ✓ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference provided. The title, authors, and year in the citation differ significantly from any found records, despite the journal name matching.
+
+### Details
+A matching record was found in the Journal of Business Research, but it has a different title focusing on factors influencing usage intention toward mobile financial services, not on user experience and perceived benefits of mobile banking. The authors differ as well; the citation lists two authors (J. Lee and Y. Lee), while the found article has four authors including Y. K. Lee but also J. H. Park, N. Chung, and A. Blakeney. The publication year also differs by six years (2018 vs. 2012). No DOI or other identifier was present in the citation to aid verification.
+
+- https://www.sciencedirect.com/science/article/pii/S0148296311000774",0.0,1.0
+"Li, X., & Wang, Y. (2019). Mobile banking: An empirical study of user behavior and perceived benefits. Journal of Financial Inclusion, 6(2), 1-15.",Mobile banking,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""Mobile banking: An empirical study of user behavior and perceived benefits"" by Li, X. and Wang, Y. from 2019 in the Journal of Financial Inclusion was found. The reference could not be verified based on available data sources.
+
+### Details
+A search in OpenAlex returned no matching records for this article. Multiple Google searches also did not find any article matching the exact title, authors, year, or journal. The closest results were studies on mobile banking and user behavior but none matched the specific details of this reference. No DOI or other identifier was found to confirm the citation.
+
+- [OpenAlex](https://openalex.org)
+- [Google Search Results](https://www.google.com/search?q=Mobile+banking+An+empirical+study+of+user+behavior+and+perceived+benefits+Li+Wang+2019)",0.0,1.0
+"Almond, S. A. (1992). The State and Society in the Modern World. Princeton University Press.",Political Science,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching book titled ""The State and Society in the Modern World"" by S. A. Almond published in 1992 by Princeton University Press could be found. The search did not confirm the title, author, year, or publisher details.
+
+### Details
+A thorough search using Google Books and academic databases found no record of a book matching the given reference. The title, author, publication year, and publisher were all unconfirmed, and no potential matches were identified. Related works by Almond or similar titles were found but did not match the reference details provided.
+
+- [Google Books Search](http://books.google.com)  
+- [Cambridge Journals](https://www.cambridge.org)  
+- [Scholar Search Results](https://scholar.google.com)",0.0,1.0
+"Dahl, R. A. (1961). Polyarchy: Participation and Opposition. University of Chicago Press.",Political Science,llama_3_2_1b,verified-with-error,"Dahl, R. A. (2008). *Polyarchy: Participation and Opposition* (unabridged ed.). Yale University Press. https://books.google.com/books?id=JcKz2249PQcC&dq=Polyarchy+Dahl",MATCH,MATCH,UNCONFIRMED,UNCONFIRMED,ABSENT,Polyarchy: Participation and Opposition,Robert A. Dahl,2008,Yale University Press,,https://books.google.com/books?id=JcKz2249PQcC&dq=Polyarchy+Dahl,GOOGLE,2,0,0,1,2,Polyarchy: Participation and Opposition,Polyarchy: Participation and Opposition,"Dahl, R. A.",Robert A. Dahl,1961,2008,University of Chicago Press,Yale University Press,,https://books.google.com/books?id=JcKz2249PQcC&dq=Polyarchy+Dahl,0,0,1,GOOGLE,0,"✓ Title | ✓ Authors | ? Year | ? Venue | ○ ID
+
+### Summary
+This book titled ""Polyarchy: Participation and Opposition"" by Robert A. Dahl was confirmed with matching title and author. However, the year and publisher differ from the original citation, suggesting the found record is a later edition (2008, Yale University Press) rather than the cited 1961 edition from University of Chicago Press.
+
+### Details
+A matching record was found with the exact title ""Polyarchy: Participation and Opposition"" and author Robert A. Dahl (full name matched with initials). The year in the found record is 2008, which is different from the cited year 1961. Additionally, the publisher in the found record is Yale University Press, whereas the citation lists University of Chicago Press. This indicates the found book may be a different edition or reprint of the original work. No unique identifier was available to confirm the exact edition cited.
+
+- [Google Books record](https://books.google.com/books?id=JcKz2249PQcC&dq=Polyarchy+Dahl)",0.6,0.4
+"Dahl, R. A. (1971). Polyarchy: Participation and Opposition. University of Chicago Press.",Political Science,llama_3_2_1b,verified-with-error,"Dahl, R. A. (1971). *Polyarchy: Participation and Opposition* (5th ed., illustrated). Yale University Press. https://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1971",MATCH,MATCH,MATCH,CONTRADICTION,ABSENT,Polyarchy: Participation and Opposition,Robert Alan Dahl,1971,Yale University Press,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1971,GOOGLE,3,1,0,1,0,Polyarchy: Participation and Opposition,Polyarchy: Participation and Opposition,"Dahl, R. A.",Robert Alan Dahl,1971,1971,University of Chicago Press,Yale University Press,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1971,0,0,1,GOOGLE,0,"✓ Title | ✓ Authors | ✓ Year | ✗ Venue | ○ ID
+
+### Summary
+This book titled ""Polyarchy: Participation and Opposition"" by Robert Alan Dahl was confirmed with matching title, author, and year. However, there is a minor discrepancy regarding the publisher: the citation lists University of Chicago Press, but the evidence shows Yale University Press as the publisher.
+
+### Details
+A matching record was found with the exact title ""Polyarchy: Participation and Opposition"" and author Robert Alan Dahl (full name Robert Alan Dahl matches initials R. A. Dahl). The publication year 1971 matched exactly. The main issue is the publisher: the citation states University of Chicago Press, but the evidence from Google Books and other sources indicates Yale University Press as the publisher. No DOI or other identifier was present in the citation.
+
+- [Google Books record](http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1971)",0.6,0.4
+"Dahl, R. A. (1973). Polyarchy: Participation and Opposition. University of Chicago Press.",Political Science,llama_3_2_1b,verified-with-error,"Dahl, R. A. (1971). *Polyarchy: Participation and Opposition* (5th ed., illustrated). Yale University Press. https://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1973",MATCH,MATCH,UNCONFIRMED,UNCONFIRMED,ABSENT,Polyarchy: Participation and Opposition,Robert Alan Dahl,1971,Yale University Press,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1973,GOOGLE,2,0,0,1,2,Polyarchy: Participation and Opposition,Polyarchy: Participation and Opposition,"Dahl, R. A.",Robert Alan Dahl,1973,1971,University of Chicago Press,Yale University Press,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1973,0,0,1,GOOGLE,0,"✓ Title | ✓ Authors | ? Year | ? Venue | ○ ID
+
+### Summary
+This book titled ""Polyarchy: Participation and Opposition"" by Robert A. Dahl was confirmed with matching title and author. However, the year and publisher differ from the citation: the found edition is from 1971 published by Yale University Press, while the citation states 1973 from University of Chicago Press. This suggests the cited edition may be a different or later edition that was not found in the databases.
+
+### Details
+A matching record was found with the exact title ""Polyarchy: Participation and Opposition"" and author Robert Alan Dahl, confirming the core bibliographic details. The year in the citation is 1973, but the found edition is from 1971, which is two years earlier. Additionally, the citation lists University of Chicago Press as the publisher, whereas the found edition is from Yale University Press. No unique identifier was present in the citation to aid verification. This evidence indicates the book exists, but the specific 1973 University of Chicago Press edition could not be confirmed.
+
+- [Google Books record for 1971 edition](http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1973)",0.6,0.4
+"Dahl, R. A. (1974). Polyarchy: Participation and Opposition. University of Chicago Press.",Political Science,llama_3_2_1b,verified-with-error,"Dahl, R. A. (1971). *Polyarchy: Participation and opposition*. Yale University Press. https://books.google.com/books?hl=en&lr=&id=JcKz2249PQcC&oi=fnd&pg=PP9&dq=Polyarchy+Dahl+Participation+and+Opposition&ots=PF7GWW_4J-&sig=S8C9TSwT0VDFp3a1xotuhVCHSe4",MATCH,MATCH,UNCONFIRMED,UNCONFIRMED,ABSENT,Polyarchy: Participation and opposition,Robert A. Dahl,1971,Yale University Press,,https://books.google.com/books?hl=en&lr=&id=JcKz2249PQcC&oi=fnd&pg=PP9&dq=Polyarchy+Dahl+Participation+and+Opposition&ots=PF7GWW_4J-&sig=S8C9TSwT0VDFp3a1xotuhVCHSe4,GOOGLE,2,0,0,1,2,Polyarchy: Participation and Opposition,Polyarchy: Participation and opposition,"Dahl, R. A.",Robert A. Dahl,1974,1971,University of Chicago Press,Yale University Press,,https://books.google.com/books?hl=en&lr=&id=JcKz2249PQcC&oi=fnd&pg=PP9&dq=Polyarchy+Dahl+Participation+and+Opposition&ots=PF7GWW_4J-&sig=S8C9TSwT0VDFp3a1xotuhVCHSe4,0,0,1,GOOGLE,0,"✓ Title | ✓ Authors | ? Year | ? Venue | ○ ID
+
+### Summary
+This book was confirmed with the title ""Polyarchy: Participation and Opposition"" and author Robert A. Dahl matching exactly. However, the year and publisher differ from the citation: the found edition is from 1971 and published by Yale University Press, while the citation states 1974 and University of Chicago Press. This suggests the cited edition may be a different or later edition that was not found in the databases.
+
+### Details
+A matching record was found with the exact title and author name (Robert A. Dahl). The year in the citation is 1974, but the found edition is from 1971, a difference of three years. The citation lists University of Chicago Press as the publisher, but the found edition is from Yale University Press, indicating different publishers. No identifier was present in the citation to aid verification. This evidence points to the existence of the book but not the specific edition cited.
+
+- https://books.google.com/books?hl=en&lr=&id=JcKz2249PQcC&oi=fnd&pg=PP9&dq=Polyarchy+Dahl+Participation+and+Opposition&ots=PF7GWW_4J-&sig=S8C9TSwT0VDFp3a1xotuhVCHSe4",0.6,0.4
+"Dahl, R. A. (1975). Polyarchy: Participation and Opposition. University of Chicago Press.",Political Science,llama_3_2_1b,verified-with-error,"Dahl, R. A. (1971). *Polyarchy: Participation and Opposition*. https://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1975",MATCH,MATCH,UNCONFIRMED,UNCONFIRMED,ABSENT,Polyarchy: Participation and Opposition,Robert Alan Dahl,1971,,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1975,GOOGLE,2,0,0,1,2,Polyarchy: Participation and Opposition,Polyarchy: Participation and Opposition,R. A. Dahl,Robert Alan Dahl,1975,1971,University of Chicago Press,,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1975,0,0,1,GOOGLE,0,"✓ Title | ✓ Authors | ? Year | ? Venue | ○ ID
+
+### Summary
+This book titled ""Polyarchy: Participation and Opposition"" by Robert Alan Dahl was confirmed with matching title and author. However, the year of publication and publisher details could not be confirmed exactly, as the edition found was from 1971 rather than the cited 1975 edition by University of Chicago Press.
+
+### Details
+A matching record was found for the book with the exact title ""Polyarchy: Participation and Opposition"" and author Robert Alan Dahl, confirming the authorship despite the citation using initials. The year in the found record is 1971, which differs from the cited year 1975 by four years, and the publisher information was not available in the found record. This suggests the cited reference may be a different edition or printing that is not present in the databases searched. The book appears to exist, but the specific 1975 University of Chicago Press edition could not be verified.
+
+- [Google Books record for 1971 edition](http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1975)",0.6,0.4
+"Dahl, R. A. (1976). Polyarchy: Participation and Opposition. University of Chicago Press.",Political Science,llama_3_2_1b,verified-with-error,"Dahl, R. A. (1971). *Polyarchy: Participation and Opposition* (5th ed.). Yale University Press. https://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1976",MATCH,MATCH,UNCONFIRMED,UNCONFIRMED,ABSENT,Polyarchy: Participation and Opposition,Robert Alan Dahl,1971,Yale University Press,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1976,GOOGLE,2,0,0,1,2,Polyarchy: Participation and Opposition,Polyarchy: Participation and Opposition,"Dahl, R. A.",Robert Alan Dahl,1976,1971,University of Chicago Press,Yale University Press,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1976,0,0,1,GOOGLE,0,"✓ Title | ✓ Authors | ? Year | ? Venue | ○ ID
+
+### Summary
+This book titled ""Polyarchy: Participation and Opposition"" by Robert A. Dahl was confirmed with matching title and author details. However, the year and publisher differ from the citation: the found edition is from 1971 published by Yale University Press, while the citation states 1976 from University of Chicago Press. This suggests the cited edition may be a different or later edition that was not found in the databases.
+
+### Details
+A matching record was found with the exact title ""Polyarchy: Participation and Opposition"" and author Robert Alan Dahl, confirming the core bibliographic details. The year in the found record is 1971, which is five years earlier than the cited 1976. Additionally, the publisher in the found record is Yale University Press, differing from the cited University of Chicago Press. No unique identifier was available in the citation to aid verification. This evidence indicates the book exists but the specific 1976 University of Chicago Press edition could not be confirmed.
+
+- [Google Books record for 1971 edition](http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1976)",0.6,0.4
+"Dahl, R. A. (1977). Polyarchy: Participation and Opposition. University of Chicago Press.",Political Science,llama_3_2_1b,verified-with-error,"Dahl, R. A. (1971). *Polyarchy: Participation and opposition* (5th ed., illustrated). 257 pages. Yale University Press. https://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1977",MATCH,MATCH,UNCONFIRMED,UNCONFIRMED,ABSENT,Polyarchy: Participation and Opposition,Robert Alan Dahl,1971,Yale University Press,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1977,GOOGLE,2,0,0,1,2,Polyarchy: Participation and Opposition,Polyarchy: Participation and Opposition,"Dahl, R. A.",Robert Alan Dahl,1977,1971,University of Chicago Press,Yale University Press,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1977,0,0,1,GOOGLE,0,"✓ Title | ✓ Authors | ? Year | ? Venue | ○ ID
+
+### Summary
+This book titled ""Polyarchy: Participation and Opposition"" by Robert A. Dahl was confirmed with matching title and author. However, the year and publisher could not be confirmed as the edition found was published in 1971 by Yale University Press, while the cited edition is from 1977 by University of Chicago Press. This suggests the cited book may be a different edition.
+
+### Details
+A matching record was found for the book with the exact title ""Polyarchy: Participation and Opposition"" and author Robert Alan Dahl, confirming the author and title match. The year in the citation is 1977, but the found edition was published in 1971, which is a 6-year difference and thus unconfirmed. Additionally, the citation lists University of Chicago Press as the publisher, but the found edition was published by Yale University Press, so the publisher is also unconfirmed. No identifier such as a DOI was present in the citation. The evidence points to the existence of the book, but the specific 1977 University of Chicago Press edition could not be verified.
+
+- [Google Books record for 1971 edition](http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy%3A+Participation+and+Opposition+Dahl+1977)",0.6,0.4
+"Dahl, R. A. (1978). Polyarchy: Participation and Opposition. University of Chicago Press.",Political Science,llama_3_2_1b,verified-with-error,"Dahl, R. A. (1971). *Polyarchy: Participation and Opposition* (5th ed., illustrated). Yale University Press. https://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy+Participation+and+Opposition+Dahl+1978",MATCH,MATCH,UNCONFIRMED,UNCONFIRMED,ABSENT,Polyarchy: Participation and Opposition,Robert Alan Dahl,1971,Yale University Press,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy+Participation+and+Opposition+Dahl+1978,GOOGLE,2,0,0,1,2,Polyarchy: Participation and Opposition.,Polyarchy: Participation and Opposition,"Dahl, R. A.",Robert Alan Dahl,1978,1971,University of Chicago Press,Yale University Press,,http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy+Participation+and+Opposition+Dahl+1978,0,0,1,GOOGLE,0,"✓ Title | ✓ Authors | ? Year | ? Venue | ○ ID
+
+### Summary
+This book titled ""Polyarchy: Participation and Opposition"" by Robert Alan Dahl was confirmed with matching title and author. However, the year and publisher differ from the citation: the found edition is from 1971 published by Yale University Press, while the citation states 1978 from University of Chicago Press. This suggests the cited edition may be a different or later edition that was not found in the databases.
+
+### Details
+A matching record was found with the exact title ""Polyarchy: Participation and Opposition"" and author Robert Alan Dahl (full name confirmed). The citation year 1978 and publisher University of Chicago Press were unconfirmed because the found edition is from 1971 and published by Yale University Press. No unique identifier was present in the citation to aid verification. The evidence points to the existence of the book but indicates the cited edition could not be verified, possibly due to a different edition or reprint.
+
+- [Google Books record for 1971 edition](http://books.google.com/books?id=LRG7ngEACAAJ&dq=Polyarchy+Participation+and+Opposition+Dahl+1978)",0.6,0.4
+"Anderson, J. (2019). Solar energy: A review of the current state and future prospects. Renewable and Sustainable Energy Reviews, 96, 109-123. doi: 10.1016/j.rser.2019.02.012",Renewable energy,llama_3_2_1b,needs-human,"Goh, B. H. H., Ong, H. C., Cheah, M. Y., Chen, W.‐H., Yu, K., & Mahlia, T. M. I. (2019). Sustainability of direct biodiesel synthesis from microalgae biomass: A critical review. *Renewable and Sustainable Energy Reviews*, 107, 59-74. https://doi.org/10.1016/j.rser.2019.02.012",CONTRADICTION,CONTRADICTION,MATCH,MATCH,MATCH,Sustainability of direct biodiesel synthesis from microalgae biomass: A critical review,Brandon Han Hoe Goh; Hwai Chyuan Ong; Mei Yee Cheah; Wei‐Hsin Chen; Kai Yu; T.M.I. Mahlia,2019,Renewable and Sustainable Energy Reviews,10.1016/j.rser.2019.02.012,https://doi.org/10.1016/j.rser.2019.02.012,GOOGLE,3,2,0,0,0,Solar energy: A review of the current state and future prospects,Sustainability of direct biodiesel synthesis from microalgae biomass: A critical review,"Anderson, J.",Brandon Han Hoe Goh; Hwai Chyuan Ong; Mei Yee Cheah; Wei‐Hsin Chen; Kai Yu; T.M.I. Mahlia,2019,2019,Renewable and Sustainable Energy Reviews,Renewable and Sustainable Energy Reviews,10.1016/j.rser.2019.02.012,10.1016/j.rser.2019.02.012,0,1,3,GOOGLE,0,"✗ Title | ✗ Authors | ✓ Year | ✓ Venue | ✓ DOI
+
+### Summary
+The reference could not be fully verified because the title and authors do not match the found record, even though the year, journal, and DOI are the same. The original citation refers to a solar energy review by Anderson, J., but the DOI leads to a different article about biodiesel synthesis by a different set of authors.
+
+### Details
+A matching record was found with the DOI 10.1016/j.rser.2019.02.012, which corresponds to an article titled ""Sustainability of direct biodiesel synthesis from microalgae biomass: A critical review"" published in Renewable and Sustainable Energy Reviews in 2019. The authors of this article are Brandon Han Hoe Goh and colleagues, which does not match the cited author Anderson, J. The titles also differ significantly, indicating these are two distinct papers despite sharing the same journal, year, and DOI. This discrepancy suggests the DOI in the original reference may be incorrect or misattributed.
+
+- https://doi.org/10.1016/j.rser.2019.02.012",0.1,0.9
+"Bocken, N. M., & Rana, P. (2018). A critical review of the renewable energy transition: Challenges, opportunities, and future directions. Journal of Cleaner Production, 183, 123-135. doi: 10.1016/j.jclepro.2018.04.044",Renewable energy,llama_3_2_1b,needs-human,"Yi, H., Yang, K., Tang, X., Liu, X., Zhao, S., Gao, F., Huang, Y., Yang, Z., Wang, J., & Shi, Y. (2018). Effects of preparation conditions on the performance of simultaneous desulfurization and denitrification over SiO 2 -MnO x composites. *Journal of Cleaner Production*, 189, 627-634. https://doi.org/10.1016/j.jclepro.2018.04.044",CONTRADICTION,CONTRADICTION,MATCH,MATCH,MATCH,Effects of preparation conditions on the performance of simultaneous desulfurization and denitrification over SiO 2 -MnO x composites,Honghong Yi; Kun Yang; Xiaolong Tang; Xiao Liu; Shunzheng Zhao; Fengyu Gao; Yonghai Huang; Zhongyu Yang; Jiangen Wang; Yiran Shi,2018,Journal of Cleaner Production,10.1016/j.jclepro.2018.04.044,https://doi.org/10.1016/j.jclepro.2018.04.044,GOOGLE,3,2,0,0,0,"A critical review of the renewable energy transition: Challenges, opportunities, and future directions",Effects of preparation conditions on the performance of simultaneous desulfurization and denitrification over SiO 2 -MnO x composites,"Bocken, N. M.; Rana, P.",Honghong Yi; Kun Yang; Xiaolong Tang; Xiao Liu; Shunzheng Zhao; Fengyu Gao; Yonghai Huang; Zhongyu Yang; Jiangen Wang; Yiran Shi,2018,2018,Journal of Cleaner Production,Journal of Cleaner Production,10.1016/j.jclepro.2018.04.044,10.1016/j.jclepro.2018.04.044,0,0,1,GOOGLE,0,"✗ Title | ✗ Authors | ✓ Year | ✓ Venue | ✓ DOI
+
+### Summary
+The reference could not be confirmed as matching the provided details. Although the year, journal, and DOI matched, the title and authors were completely different, indicating a mismatch between the citation and the actual article.
+
+### Details
+A matching record was found for the DOI 10.1016/j.jclepro.2018.04.044, but it corresponds to a different article titled ""Effects of preparation conditions on the performance of simultaneous desulfurization and denitrification over SiO2-MnOx composites"" with a different set of authors. The year 2018 and the journal ""Journal of Cleaner Production"" matched exactly, but the title and authors did not align with the original reference citing Bocken and Rana on renewable energy transition. This discrepancy suggests the DOI or citation details may be incorrect or mixed up.
+
+- https://doi.org/10.1016/j.jclepro.2018.04.044",0.1,0.9
+"Chen, Y., & Wang, Y. (2018). A review of the current status and future prospects of wind energy. Renewable Energy, 123, 1-13. doi: 10.1016/j.renene.2018.02.012",Renewable energy,llama_3_2_1b,needs-human,"Sartório Cardoso de Lima, G., Coelho Lopes, E., Gutierrez Motta, J., Asano, R., Valverde, M. C., Suyama, R., & Teixeira Leite Asano, P. (2018). Sustainable development enhanced in the decision process of electricity generation expansion planning. *Renewable Energy*, 123, 563-577. https://doi.org/10.1016/j.renene.2018.02.012",CONTRADICTION,CONTRADICTION,MATCH,MATCH,MATCH,Sustainable development enhanced in the decision process of electricity generation expansion planning,Gracieli Sartório Cardoso de Lima; Elaine Coelho Lopes; Juliana Gutierrez Motta; Roberto Asano; María Cleofé Valverde; Ricardo Suyama; Patrícia Teixeira Leite Asano,2018,Renewable Energy,10.1016/j.renene.2018.02.012,https://doi.org/10.1016/j.renene.2018.02.012,GOOGLE,3,2,0,0,0,A review of the current status and future prospects of wind energy,Sustainable development enhanced in the decision process of electricity generation expansion planning,"Chen, Y.; Wang, Y.",Gracieli Sartório Cardoso de Lima; Elaine Coelho Lopes; Juliana Gutierrez Motta; Roberto Asano; María Cleofé Valverde; Ricardo Suyama; Patrícia Teixeira Leite Asano,2018,2018,Renewable Energy,Renewable Energy,10.1016/j.renene.2018.02.012,10.1016/j.renene.2018.02.012,0,0,1,GOOGLE,0,"✗ Title | ✗ Authors | ✓ Year | ✓ Venue | ✓ DOI
+
+### Summary
+The reference could not be fully verified because the title and authors do not match the information found for the given DOI, even though the year, journal, and DOI itself match. This discrepancy means the citation may be incorrect or mixed with another article.
+
+### Details
+A matching record was found for the DOI 10.1016/j.renene.2018.02.012, which corresponds to an article titled ""Sustainable development enhanced in the decision process of electricity generation expansion planning"" published in Renewable Energy in 2018. However, the original reference cites a different title, ""A review of the current status and future prospects of wind energy,"" and different authors (Chen, Y. and Wang, Y.). The year 2018, journal Renewable Energy, and DOI matched exactly, but the title and authors did not, indicating a mismatch. No other matching articles were found in additional searches.
+
+- https://doi.org/10.1016/j.renene.2018.02.012",0.1,0.9
+"De Almeida, A. S., & de Souza, R. (2019). Energy efficiency in buildings: A review of the current state and future prospects. Energy and Buildings, 193, 109-123. doi: 10.1016/j.enbuild.2019.02.012",Renewable energy,llama_3_2_1b,needs-human,"Mun, S.-H., Kwak, Y. H., & Huh, J.-H. (2019). A case-centered behavior analysis and operation prediction of AC use in residential buildings. *Energy and Buildings*, 188-189, 137-148. https://doi.org/10.1016/j.enbuild.2019.02.012",CONTRADICTION,CONTRADICTION,MATCH,MATCH,MATCH,A case-centered behavior analysis and operation prediction of AC use in residential buildings,Sun-Hye Mun; Young Hoon Kwak; Jung-Ho Huh,2019,Energy and Buildings,10.1016/j.enbuild.2019.02.012,https://doi.org/10.1016/j.enbuild.2019.02.012,GOOGLE,3,2,0,0,0,Energy efficiency in buildings: A review of the current state and future prospects,A case-centered behavior analysis and operation prediction of AC use in residential buildings,"De Almeida, A. S.; de Souza, R.",Sun-Hye Mun; Young Hoon Kwak; Jung-Ho Huh,2019,2019,Energy and Buildings,Energy and Buildings,10.1016/j.enbuild.2019.02.012,10.1016/j.enbuild.2019.02.012,0,0,1,GOOGLE,1,"✗ Title | ✗ Authors | ✓ Year | ✓ Venue | ✓ DOI
+
+### Summary
+The reference could not be confirmed because the title and authors do not match the found record, even though the year, journal, and DOI are the same. This discrepancy means the citation likely points to a different article than the one originally referenced.
+
+### Details
+A matching record was found with the same DOI (10.1016/j.enbuild.2019.02.012), year (2019), and journal (Energy and Buildings). However, the title ""A case-centered behavior analysis and operation prediction of AC use in residential buildings"" and authors Sun-Hye Mun, Young Hoon Kwak, and Jung-Ho Huh differ from the original citation's title and authors (De Almeida, A. S., & de Souza, R.). This mismatch suggests the DOI may be incorrect or the citation is referencing a different paper.
+
+- https://doi.org/10.1016/j.enbuild.2019.02.012",0.1,0.9
+"Gao, Y., & Li, X. (2018). A review of the current state and future prospects of solar energy. Journal of Solar Energy Engineering, 140(2), 240-253. doi: 10.1117/1.50193.001",Renewable energy,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Gao and Li (2018) in the Journal of Solar Energy Engineering. The DOI provided did not return any results, and no records with the same title, authors, or year were identified.
+
+### Details
+A search using the DOI 10.1117/1.50193.001 found no corresponding record in OpenAlex. Additionally, a broader web search did not reveal any article matching the title ""A review of the current state and future prospects of solar energy"" by Gao and Li from 2018 in the specified journal. Several related articles on solar energy reviews were found, but none matched the exact details of the original reference.
+
+- https://openalex.org
+- https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/37/e3sconf_icftest2024_01079.pdf
+- https://www.researchgate.net/publication/379417534_A_Review_Paper_on_Current_State_of_the_Worldwide_Solar_Energy_Generation
+- https://www.sciencedirect.com/science/article/pii/S2352484723014579
+- https://systemre.org/index.php/journal/article/view/568
+- https://www.mdpi.com/1996-1073/16/11/4370
+- https://search.proquest.com/openview/24caeae459069f6b29049e97ec8bb54e/1?pq-origsite=gscholar&cbl=4998668
+- https://www.e3s-conferences.org/articles/e3sconf/abs/2024/37/e3sconf_icftest2024_01079/e3sconf_icftest2024_01079.html",0.0,1.0
+"Hossain, M., & Islam, M. M. (2019). A review of the current state and future prospects of bioenergy. Energy and Environmental Science, 12(10), 3421-3435. doi: 10.1016/j.ees.2019.04.012",Renewable energy,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Hossain and Islam (2019) titled ""A review of the current state and future prospects of bioenergy"" in the journal Energy and Environmental Science. The DOI provided did not return any results, and no other close matches were identified in the search.
+
+### Details
+A search using the DOI 10.1016/j.ees.2019.04.012 did not find any record in OpenAlex. Additional searches through scholarly databases returned articles on related topics but none matching the exact title, authors, year, or journal. The year 2019 and the authors Hossain and Islam were not confirmed in any found records. The journal Energy and Environmental Science did not show a matching article with the given details.
+
+- https://openalex.org
+- https://scholar.google.com",0.0,1.0
+"Kim, J., & Lee, S. (2018). A review of the current state and future prospects of geothermal energy. Renewable and Sustainable Energy Reviews, 84, 109-123. doi: 10.1016/j.rser.2018.04.012",Renewable energy,llama_3_2_1b,needs-human,"Onuoha, I. I. J., Aliagha, G. U., & Rahman, M. S. A. (2018). Modelling the effects of green building incentives and green building skills on supply factors affecting green commercial property investment. *Renewable and Sustainable Energy Reviews*, 90, 814-823. https://doi.org/10.1016/j.rser.2018.04.012",CONTRADICTION,CONTRADICTION,MATCH,MATCH,MATCH,Modelling the effects of green building incentives and green building skills on supply factors affecting green commercial property investment,Onuoha Iheanyichukwu Joachim; Godwin Uche Aliagha; Mohd Shahril Abdul Rahman,2018,Renewable and Sustainable Energy Reviews,10.1016/j.rser.2018.04.012,https://doi.org/10.1016/j.rser.2018.04.012,GOOGLE,3,2,0,0,0,A review of the current state and future prospects of geothermal energy.,Modelling the effects of green building incentives and green building skills on supply factors affecting green commercial property investment,"Kim, J.; Lee, S.",Onuoha Iheanyichukwu Joachim; Godwin Uche Aliagha; Mohd Shahril Abdul Rahman,2018,2018,Renewable and Sustainable Energy Reviews,Renewable and Sustainable Energy Reviews,10.1016/j.rser.2018.04.012,10.1016/j.rser.2018.04.012,0,0,1,GOOGLE,0,"✗ Title | ✗ Authors | ✓ Year | ✓ Venue | ✓ DOI
+
+### Summary
+The reference could not be confirmed as matching the original citation. Although the year, journal, and DOI are the same, the title and authors differ significantly, indicating these are two different articles.
+
+### Details
+A matching record was found with the DOI 10.1016/j.rser.2018.04.012, but it corresponds to a paper titled ""Modelling the effects of green building incentives and green building skills on supply factors affecting green commercial property investment"" by Onuoha Iheanyichukwu Joachim, Godwin Uche Aliagha, and Mohd Shahril Abdul Rahman. This differs from the original citation's title about geothermal energy and authors Kim, J. and Lee, S. The year 2018 and journal Renewable and Sustainable Energy Reviews matched exactly, but the content and authorship do not align, suggesting the DOI or citation details may be incorrect or mixed up.
+
+- https://doi.org/10.1016/j.rser.2018.04.012
+- https://www.sciencedirect.com/",0.1,0.9
+"Li, X., & Zhang, Y. (2019). A review of the current state and future prospects of hydrogen production from renewable energy sources. Energy and Environmental Science, 12(10), 3426-3435. doi: 10.1016/j.ees.2019.04.012",Renewable energy,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,CONTRADICTION,Current status and development trend of wind power generation-based hydrogen production technology,Z Li; P Guo; R Han; H Sun,2019,Energy Exploration & …,10.1177/0144598718787294,https://journals.sagepub.com/doi/abs/10.1177/0144598718787294,GOOGLE,1,4,0,0,0,A review of the current state and future prospects of hydrogen production from renewable energy sources,Current status and development trend of wind power generation-based hydrogen production technology,"Li, X.; Zhang, Y.",Z Li; P Guo; R Han; H Sun,2019,2019,Energy and Environmental Science,Energy Exploration & …,10.1016/j.ees.2019.04.012,10.1177/0144598718787294,0,0,1,GOOGLE,0,"✗ Title | ✗ Authors | ✓ Year | ✗ Venue | ✗ DOI
+
+### Summary
+No matching article could be found for the given reference. The title, authors, journal, and DOI all differ from any records found, despite the year 2019 matching.
+
+### Details
+A search did not find the DOI 10.1016/j.ees.2019.04.012 in OpenAlex. The closest candidate found was an article titled ""Current status and development trend of wind power generation-based hydrogen production technology"" by Z Li, P Guo, R Han, and H Sun published in 2019 in ""Energy Exploration & …"" with DOI 10.1177/0144598718787294. This differs significantly from the cited article titled ""A review of the current state and future prospects of hydrogen production from renewable energy sources"" by Li, X. and Zhang, Y. in ""Energy and Environmental Science."" The differences in title scope, author names, journal names, and DOI indicate these are distinct articles.
+
+- https://journals.sagepub.com/doi/abs/10.1177/0144598718787294",0.0,1.0
+"Mazzotta, G., & Sartori, G. (2018). A review of the current state and future prospects of biomass energy. Energy and Environmental Science, 11(10), 3426-3435. doi: 10.1016/j.ees.2018.04.012",Renewable energy,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Mazzotta and Sartori (2018) in Energy and Environmental Science. The DOI provided does not exist in the DOI system, and no records with matching title, authors, or year were found in major academic databases.
+
+### Details
+A search for the DOI 10.1016/j.ees.2018.04.012 returned a 404 error indicating the DOI does not exist. OpenAlex did not find any record matching this DOI. Google Scholar and other academic searches did not find an article with the exact title or authors. The closest related articles found discuss biomass energy but have different authors, titles, and publication years. This suggests the reference is not verifiable with the given information.
+
+- https://doi.org/10.1016/j.ees.2018.04.012
+- https://openalex.org
+- https://scholar.google.com
+- https://www.researchgate.net/publication/396407448_Biomass_Energy_-Past_Present_and_Future_Prospects_A_Review",0.0,1.0
+"Anderson, D. M., & Schaefer, J. (2017). Rural electrification and economic development: A review of the literature. Journal of Rural Development, 36(3), 1-14.",Rural electrification,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,CONTAINS,CONTRADICTION,ABSENT,Electricity access and rural development: Review of complex socio-economic dynamics and causal diagrams for more appropriate energy modelling,Fabio Riva; Helene Ahlborg; Elias Hartvigsson; Shonali Pachauri; Emanuela Colombo,2018,Energy Sustainable Development/Energy for sustainable development,10.1016/j.esd.2018.02.003,https://doi.org/10.1016/j.esd.2018.02.003,GOOGLE,0,3,1,1,0,Rural electrification and economic development: A review of the literature,Electricity access and rural development: Review of complex socio-economic dynamics and causal diagrams for more appropriate energy modelling,"Anderson, D. M.; Schaefer, J.",Fabio Riva; Helene Ahlborg; Elias Hartvigsson; Shonali Pachauri; Emanuela Colombo,2017,2018,Journal of Rural Development,Energy Sustainable Development/Energy for sustainable development,,10.1016/j.esd.2018.02.003,0,0,3,GOOGLE,0,"✗ Title | ✗ Authors | ◐ Year | ✗ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Anderson and Schaefer (2017). The title, authors, and journal do not correspond to any known publication, and the closest found article has a different title, different authors, and was published in a different journal in 2018.
+
+### Details
+A search found a candidate article titled ""Electricity access and rural development: Review of complex socio-economic dynamics and causal diagrams for more appropriate energy modelling"" published in 2018 in the journal Energy Sustainable Development. This article has completely different authors (Fabio Riva et al.) and a different journal than the cited reference. The year is close but not an exact match. No identifier was provided in the original reference to aid verification. The original title and authors do not match any records found in the search.
+
+- https://doi.org/10.1016/j.esd.2018.02.003
+- https://www.sciencedirect.com
+- https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/REPP_2019-04-25-FINAL-All.pdf",0.0,1.0
+"Bajaj, S. (2018). Rural electrification and poverty reduction: A case study of rural India. Energy Policy, 121, 1-12.",Rural electrification,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""Rural electrification and poverty reduction: A case study of rural India"" by Bajaj from 2018 could be found in the journal Energy Policy or elsewhere. The reference could not be verified based on available data sources.
+
+### Details
+A search in OpenAlex did not find any record matching the title, author, year, or journal. Similarly, a Google search returned no relevant results. There was no evidence to confirm any part of the reference.
+
+- [OpenAlex](https://openalex.org)
+- [Google Search](https://www.google.com)",0.0,1.0
+"Bajaj, S., & Kumar, A. (2019). Rural electrification and rural poverty: A systematic review. Energy and Environmental Science, 12(5), 1231-1245.",Rural electrification,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Bajaj and Kumar (2019) titled ""Rural electrification and rural poverty: A systematic review"" in the journal Energy and Environmental Science or elsewhere.
+
+### Details
+A search was conducted using OpenAlex and Google Scholar, but no records matching the title, authors, year, or journal were found. There were no potential matches or similar works identified in the databases checked.
+
+- [OpenAlex](https://openalex.org)
+- [Google Scholar](https://scholar.google.com)",0.0,1.0
+"Chen, Y., & Li, X. (2018). Rural electrification and energy access in developing countries: A review of the literature. Energy for Sustainable Development, 45, 1-14.",Rural electrification,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Chen and Li (2018) titled ""Rural electrification and energy access in developing countries: A review of the literature."" None of the key details such as title, authors, year, or journal were confirmed.
+
+### Details
+A search through OpenAlex and other scholarly databases did not find any record matching the given title, authors, or publication year. The year 2018 and the journal ""Energy for Sustainable Development"" did not yield any matching results. Several related articles on rural electrification and energy access were found, but none matched the exact reference details provided.
+
+- https://www.sciencedirect.com
+- https://openalex.org
+- https://scholar.google.com",0.0,1.0
+"Dufour, M. (2017). Rural electrification and rural development: A review of the literature. Journal of Rural Studies, 43(1), 1-14.",Rural electrification,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,CONTAINS,CONTAINS,ABSENT,Electricity access and rural development: Review of complex socio-economic dynamics and causal diagrams for more appropriate energy modelling,Fabio Riva; Helene Ahlborg; Elias Hartvigsson; Shonali Pachauri; Emanuela Colombo,2018,Energy Sustainable Development/Energy for sustainable development,10.1016/j.esd.2018.02.003,https://doi.org/10.1016/j.esd.2018.02.003,GOOGLE,0,2,2,1,0,Rural electrification and rural development: A review of the literature,Electricity access and rural development: Review of complex socio-economic dynamics and causal diagrams for more appropriate energy modelling,"Dufour, M.",Fabio Riva; Helene Ahlborg; Elias Hartvigsson; Shonali Pachauri; Emanuela Colombo,2017,2018,Journal of Rural Studies,Energy Sustainable Development/Energy for sustainable development,,10.1016/j.esd.2018.02.003,0,1,2,GOOGLE,0,"✗ Title | ✗ Authors | ◐ Year | ◐ Venue | ○ ID
+
+### Summary
+The reference could not be verified as it does not match any known publication. The title and authors differ significantly from the closest available article, and the publication years and journals also do not align.
+
+### Details
+A matching record was found for a similarly themed article titled ""Electricity access and rural development: Review of complex socio-economic dynamics and causal diagrams for more appropriate energy modelling"" published in 2018 in the journal Energy for Sustainable Development. However, this article has completely different authors and a different title compared to the cited reference. The cited article's title and author ""Dufour, M."" do not correspond to any found records. The year 2017 and journal ""Journal of Rural Studies"" from the citation also differ from the evidence. No DOI or identifier was present in the citation to aid verification.
+
+- https://doi.org/10.1016/j.esd.2018.02.003
+- https://www.researchgate.net/publication/283838237_Rural_Electrification_and_Rural_Development
+- https://www.semanticscholar.org/paper/Rural-Electrification-and-Rural-Development-Cook/84a979f1dcaa71890125ce5b6640fc75152e26da",0.0,1.0
+"Gao, Y., & Li, X. (2019). Rural electrification and rural poverty reduction: A case study of rural China. Energy and Economic Development, 30(1), 1-15.",Rural electrification,llama_3_2_1b,unverified,Reference could not be verified.,CONTAINS,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,China's rural electrification and poverty reduction,Ming Yang,2003,Energy Policy,,https://ideas.repec.org/a/eee/enepol/v31y2003i3p283-295.html,GOOGLE,0,3,1,1,0,Rural electrification and rural poverty reduction: A case study of rural China,China's rural electrification and poverty reduction,"Gao, Y.; Li, X.",Ming Yang,2019,2003,Energy and Economic Development,Energy Policy,,https://ideas.repec.org/a/eee/enepol/v31y2003i3p283-295.html,0,0,1,GOOGLE,0,"◐ Title | ✗ Authors | ✗ Year | ✗ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Gao and Li (2019) titled ""Rural electrification and rural poverty reduction: A case study of rural China"". The closest found article has a similar title but different authors, year, and journal.
+
+### Details
+A matching record was found with the title ""China's rural electrification and poverty reduction,"" but it was authored by Ming Yang in 2003 and published in the journal Energy Policy, not Energy and Economic Development. The citation's authors (Gao, Y. and Li, X.) and year (2019) do not match the candidate's author or year. The journal names also differ, indicating these are distinct publications. No DOI or other identifier was available to confirm the citation. Relevant sources include:
+
+- [IDEAS/RePEc record](https://ideas.repec.org/a/eee/enepol/v31y2003i3p283-295.html)
+- [ResearchGate link](https://www.researchgate.net/publication/223061562_China's_Rural_Electrification_and_Poverty_Reduction)",0.0,1.0
+"Hossain, M., & Islam, M. (2018). Rural electrification and rural poverty: A study of Bangladesh. Energy Policy, 121, 1-12.",Rural electrification,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,MATCH,CONTAINS,ABSENT,Do determinants of adopting solar home systems differ between households and micro-enterprises? Evidence from rural Bangladesh,Masamitsu Kurata; Noriatsu Matsui; Yukio Ikemoto; Hiromi Tsuboi,2018,Renewable Energy,10.1016/j.renene.2018.06.015,https://doi.org/10.1016/j.renene.2018.06.015,GOOGLE,1,2,1,1,0,Rural electrification and rural poverty: A study of Bangladesh,Do determinants of adopting solar home systems differ between households and micro-enterprises? Evidence from rural Bangladesh,"Hossain, M.; Islam, M.",Masamitsu Kurata; Noriatsu Matsui; Yukio Ikemoto; Hiromi Tsuboi,2018,2018,Energy Policy,Renewable Energy,,10.1016/j.renene.2018.06.015,0,0,1,GOOGLE,0,"✗ Title | ✗ Authors | ✓ Year | ◐ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Hossain and Islam (2018) on rural electrification and rural poverty in Bangladesh. The closest found article from 2018 covers a different topic and has completely different authors.
+
+### Details
+A matching record was found for a 2018 article titled ""Do determinants of adopting solar home systems differ between households and micro-enterprises? Evidence from rural Bangladesh"" published in Renewable Energy. However, this article has different authors (Kurata, Matsui, Ikemoto, Tsuboi) and focuses on solar home systems adoption rather than rural electrification and poverty. The journal titles are related through the same publisher but are distinct. No identifier was available in the original reference to aid verification.
+
+- https://doi.org/10.1016/j.renene.2018.06.015",0.0,1.0
+"Kaur, S., & Kumar, A. (2019). Rural electrification and rural poverty: A systematic review. Energy and Environmental Science, 12(5), 1246-1258.",Rural electrification,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Kaur and Kumar (2019) titled ""Rural electrification and rural poverty: A systematic review"" in the journal Energy and Environmental Science.
+
+### Details
+A search was conducted across multiple databases including OpenAlex, Google Scholar, and general Google search, but no records matching the title, authors, year, or journal were found. There were no potential matches or similar works identified in any of the sources checked.
+
+- [OpenAlex](https://openalex.org)
+- [Google Scholar](https://scholar.google.com)
+- [Google Search](https://www.google.com)",0.0,1.0
+"Lee, J., & Kim, J. (2018). Rural electrification and rural development: A review of the literature. Journal of Rural Development, 37(2), 1-14.",Rural electrification,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,ABSENT,Electricity access and rural development: Review of complex socio-economic dynamics and causal diagrams for more appropriate energy modelling,Fabio Riva; Helene Ahlborg; Elias Hartvigsson; Shonali Pachauri; Emanuela Colombo,2018,Energy Sustainable Development/Energy for sustainable development,10.1016/j.esd.2018.02.003,https://doi.org/10.1016/j.esd.2018.02.003,GOOGLE,1,3,0,1,0,Rural electrification and rural development: A review of the literature,Electricity access and rural development: Review of complex socio-economic dynamics and causal diagrams for more appropriate energy modelling,"Lee, J.; Kim, J.",Fabio Riva; Helene Ahlborg; Elias Hartvigsson; Shonali Pachauri; Emanuela Colombo,2018,2018,Journal of Rural Development,Energy Sustainable Development/Energy for sustainable development,,10.1016/j.esd.2018.02.003,0,0,2,GOOGLE,0,"✗ Title | ✗ Authors | ✓ Year | ✗ Venue | ○ ID
+
+### Summary
+The reference could not be verified because the details do not match any known record. The cited article by Lee and Kim from 2018 in the Journal of Rural Development differs significantly in title, authors, and journal from the closest found article.
+
+### Details
+A matching record was found for a 2018 article titled ""Electricity access and rural development: Review of complex socio-economic dynamics and causal diagrams for more appropriate energy modelling"" published in Energy for Sustainable Development. However, this article has completely different authors (Fabio Riva et al.) and a different journal compared to the cited reference. The year 2018 matches exactly, but the title, authors, and journal contradict the citation. No identifier was provided in the citation to aid verification.
+
+- https://doi.org/10.1016/j.esd.2018.02.003",0.0,1.0
+"Anderson, L. (2018). The effects of school dropout on academic achievement and career outcomes. Journal of Educational Psychology, 110(2), 241-253.",School dropout,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Anderson (2018) titled ""The effects of school dropout on academic achievement and career outcomes"" in the Journal of Educational Psychology or other sources.
+
+### Details
+A search in OpenAlex and Google Scholar did not return any records matching the title, author, year, or journal details provided. There were no potential matches found to confirm any part of the reference.
+
+- https://openalex.org
+- https://scholar.google.com",0.0,1.0
+"Bernal, R. (2017). The impact of school dropout on mental health outcomes. Journal of Adolescent Health, 61(3), 341-346.",School dropout,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Bernal (2017) titled ""The impact of school dropout on mental health outcomes"" in the Journal of Adolescent Health or any other source.
+
+### Details
+A search in OpenAlex did not find any record matching the title, authors, year, or journal details provided. The closest articles found were on related topics but had different titles, authors, and publication years. Additionally, a general web search returned relevant articles on school dropout and mental health but none matching the exact reference details.
+
+- https://doi.org/10.1016/j.jadohealth.2016.06.020
+- https://doi.org/10.1016/j.jadohealth.2016.11.019
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4877222/
+- https://www.sciencedirect.com/science/article/abs/pii/S1876201823001776",0.0,1.0
+"Brooks, A. (2019). The relationship between school dropout and educational attainment. Journal of Educational Research, 112(4), 341-353.",School dropout,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,Interpreting community effects on youth educational attainment,S J South; E P Baumer; A Lutz,2003,Youth & Society,,https://journals.sagepub.com/doi/abs/10.1177/0044118x03254560,GOOGLE,0,4,0,1,0,The relationship between school dropout and educational attainment.,Interpreting community effects on youth educational attainment,"Brooks, A.",S J South; E P Baumer; A Lutz,2019,2003,Journal of Educational Research,Youth & Society,,https://journals.sagepub.com/doi/abs/10.1177/0044118x03254560,0,0,3,GOOGLE,0,"✗ Title | ✗ Authors | ✗ Year | ✗ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Brooks, A. (2019) titled ""The relationship between school dropout and educational attainment."" The details such as title, authors, year, and journal do not align with any known records.
+
+### Details
+A search found no record matching the title or authors of the cited article. The closest found article was ""Interpreting community effects on youth educational attainment"" by South, Baumer, and Lutz from 2003 in Youth & Society, which differs significantly in title, authors, year, and journal. The cited article's year 2019 does not match the 2003 year of the closest candidate, and the authors Brooks, A. and South, Baumer, Lutz do not overlap. The journal ""Journal of Educational Research"" also does not match ""Youth & Society."" No DOI or other identifier was provided to assist verification.
+
+- https://journals.sagepub.com/doi/abs/10.1177/0044118x03254560",0.0,1.0
+"Chen, Y. (2018). The effects of school dropout on social and emotional development. Journal of Educational Psychology, 110(3), 341-353.",School dropout,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,"Shyness-sensitivity and social, school, and psychological adjustment in rural migrant and urban children in China",X Chen; L Wang; Z Wang,2009,Child Development,,https://academic.oup.com/chidev/article-abstract/80/5/1499/8274790,GOOGLE,0,4,0,1,0,The effects of school dropout on social and emotional development,"Shyness-sensitivity and social, school, and psychological adjustment in rural migrant and urban children in China","Chen, Y.",X Chen; L Wang; Z Wang,2018,2009,Journal of Educational Psychology,Child Development,,https://academic.oup.com/chidev/article-abstract/80/5/1499/8274790,0,0,3,GOOGLE,0,"✗ Title | ✗ Authors | ✗ Year | ✗ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Chen, Y. (2018) titled ""The effects of school dropout on social and emotional development"" in the Journal of Educational Psychology. The available evidence points to a different article with distinct authors, year, title, and journal.
+
+### Details
+A search found no record matching the title, authors, year, or journal of the cited article. The closest candidate was an article titled ""Shyness-sensitivity and social, school, and psychological adjustment in rural migrant and urban children in China"" by X Chen, L Wang, and Z Wang, published in 2009 in Child Development. This differs significantly in topic, author names, publication year (2009 vs. 2018), and journal. No DOI or other identifier was found for the original citation.
+
+- https://academic.oup.com/chidev/article-abstract/80/5/1499/8274790",0.0,1.0
+"Davenport, J. (2017). The impact of school dropout on career outcomes. Journal of Career Development, 44(2), 141-155.",School dropout,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""The impact of school dropout on career outcomes"" by J. Davenport from 2017 in the Journal of Career Development could be found. The reference could not be verified based on available data sources.
+
+### Details
+A search was conducted across multiple databases including OpenAlex, Google Scholar, and general Google search, but no records matching the title, author, year, or journal were found. There were no potential matches or similar entries to compare against, leading to the conclusion that this reference is unverified.
+
+- https://openalex.org
+- https://scholar.google.com
+- https://www.google.com",0.0,1.0
+"Gao, Y. (2019). The relationship between school dropout and substance abuse. Journal of Substance Abuse Treatment, 83, 1-9.",School dropout,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,A systematic review of the relationship between high school dropout and substance use,L Townsend; AJ Flisher; G King,2007,Clinical child and family psychology …,,https://link.springer.com/article/10.1007/s10567-007-0023-7,GOOGLE,0,4,0,1,0,The relationship between school dropout and substance abuse,A systematic review of the relationship between high school dropout and substance use,"Gao, Y.",L Townsend; AJ Flisher; G King,2019,2007,Journal of Substance Abuse Treatment,Clinical child and family psychology …,,https://link.springer.com/article/10.1007/s10567-007-0023-7,0,0,3,GOOGLE,0,"✗ Title | ✗ Authors | ✗ Year | ✗ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Gao, Y. (2019) titled ""The relationship between school dropout and substance abuse"" in the Journal of Substance Abuse Treatment. The details of the candidate articles show significant differences in title, authors, year, and journal.
+
+### Details
+A search found a candidate article titled ""A systematic review of the relationship between high school dropout and substance use"" by Townsend, L., Flisher, A. J., and King, G. published in 2007 in Clinical Child and Family Psychology. This differs notably from the cited article in title scope, author names, publication year (2007 vs. 2019), and journal. No DOI or other identifier was available for the cited reference, and no exact or close matches were found in the search results. The year 2019 and author Gao, Y. do not align with any found records.
+
+- https://link.springer.com/article/10.1007/s10567-007-0023-7
+- https://onlinelibrary.wiley.com/doi/abs/10.1002/pits.23442",0.0,1.0
+"Hwang, J. (2018). The effects of school dropout on academic motivation. Journal of Educational Psychology, 110(2), 254-265.",School dropout,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,"Callous-unemotional traits and antisocial behavior in South Korean children: Links with academic motivation, school engagement, and teachers' use of reward and …",S Hwang; R Waller; DJ Hawes; JL Allen,2020,Journal of Abnormal Child Psychology,10.1007/s10802-020-00663-2,https://link.springer.com/article/10.1007/s10802-020-00663-2,GOOGLE,0,4,0,1,0,The effects of school dropout on academic motivation.,"Callous-unemotional traits and antisocial behavior in South Korean children: Links with academic motivation, school engagement, and teachers' use of reward and …","Hwang, J.",S Hwang; R Waller; DJ Hawes; JL Allen,2018,2020,Journal of Educational Psychology,Journal of Abnormal Child Psychology,,10.1007/s10802-020-00663-2,0,0,3,GOOGLE,0,"✗ Title | ✗ Authors | ✗ Year | ✗ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Hwang, J. (2018) titled ""The effects of school dropout on academic motivation."" The details of the candidate article differ significantly in title, authors, year, and journal.
+
+### Details
+A matching record was not found that corresponds to the citation. The candidate article found discusses callous-unemotional traits and antisocial behavior in South Korean children, which is a different topic from school dropout effects on motivation. The authors differ, with the citation listing Hwang, J., while the candidate article lists S Hwang, R Waller, DJ Hawes, and JL Allen. The publication years differ by two years (2018 vs 2020), and the journals are different: Journal of Educational Psychology versus Journal of Abnormal Child Psychology. No identifier was available to confirm the citation.
+
+- https://link.springer.com/article/10.1007/s10802-020-00663-2",0.0,1.0
+"Lee, S. (2019). The impact of school dropout on social skills. Journal of Educational Psychology, 111(3), 341-353.",School dropout,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,CONTRADICTION,CONTRADICTION,ABSENT,Dropping out of high school: The role of school organization and structure,VE Lee; DT Burkam,2003,American Educational Research Journal,,https://journals.sagepub.com/doi/abs/10.3102/00028312040002353,GOOGLE,0,4,0,1,0,The impact of school dropout on social skills,Dropping out of high school: The role of school organization and structure,"Lee, S.",VE Lee; DT Burkam,2019,2003,Journal of Educational Psychology,American Educational Research Journal,,https://journals.sagepub.com/doi/abs/10.3102/00028312040002353,0,0,3,GOOGLE,0,"✗ Title | ✗ Authors | ✗ Year | ✗ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Lee, S. (2019) titled ""The impact of school dropout on social skills"" in the Journal of Educational Psychology. The best potential match found was a different article by VE Lee and DT Burkam from 2003 with a distinct title and published in a different journal.
+
+### Details
+A search found no record matching the 2019 article by Lee, S. The closest candidate was ""Dropping out of high school: The role of school organization and structure"" by VE Lee and DT Burkam, published in 2003 in the American Educational Research Journal. The titles differ significantly in focus, the authors mostly differ except for the surname Lee, the publication years differ by 16 years, and the journals are distinct. No identifier was available to aid verification.
+
+- https://journals.sagepub.com/doi/abs/10.3102/00028312040002353",0.0,1.0
+"Martin, J. (2018). The relationship between school dropout and educational attainment. Journal of Educational Research, 111(2), 141-155.",School dropout,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTAINS,MATCH,CONTRADICTION,ABSENT,"Adaptability, engagement, and degree completion: a longitudinal investigation of university students",A.J. Holliman; A.J. Martin; R.J. Collie,2018,Educational Psychology,,https://www.tandfonline.com/doi/abs/10.1080/01443410.2018.1426835,GOOGLE,1,2,1,1,0,The relationship between school dropout and educational attainment,"Adaptability, engagement, and degree completion: a longitudinal investigation of university students","Martin, J.",A.J. Holliman; A.J. Martin; R.J. Collie,2018,2018,Journal of Educational Research,Educational Psychology,,https://www.tandfonline.com/doi/abs/10.1080/01443410.2018.1426835,0,0,3,GOOGLE,0,"✗ Title | ◐ Authors | ✓ Year | ✗ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Martin, J. (2018) titled ""The relationship between school dropout and educational attainment"" in the Journal of Educational Research. The best potential match found was a different article with a different title, additional authors, and published in a different journal.
+
+### Details
+A matching record was not found on OpenAlex. The closest candidate article was titled ""Adaptability, engagement, and degree completion: a longitudinal investigation of university students,"" authored by A.J. Holliman, A.J. Martin, and R.J. Collie, published in 2018 in the journal Educational Psychology. While the year and one author (Martin) matched, the title and journal were different, indicating a contradiction. No identifier was available to confirm the original reference.
+
+- https://www.tandfonline.com/doi/abs/10.1080/01443410.2018.1426835",0.0,1.0
+"Anderson, L. A., & Smith, J. (2018). Rural school dropout prevention and intervention: A systematic review. Journal of Rural Education, 66(1), 1-15.",School dropout prevention programs in rural areas,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Anderson and Smith (2018) titled ""Rural school dropout prevention and intervention: A systematic review"" in the Journal of Rural Education. None of the key details such as title, authors, year, or journal were confirmed.
+
+### Details
+A search was conducted using OpenAlex and Google Scholar, but no records matching the article title, authors, publication year, or journal were found. There were no potential matches or similar works identified in the databases queried.
+
+- [OpenAlex](https://openalex.org)
+- [Google Scholar](https://scholar.google.com)",0.0,1.0
+"Burch, R. A., & Smith, J. (2017). Rural school dropout prevention: A review of the literature. Journal of Rural Education, 65(2), 147-164.",School dropout prevention programs in rural areas,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Burch and Smith (2017) titled ""Rural school dropout prevention: A review of the literature"" in the Journal of Rural Education. None of the key details such as title, authors, year, or journal were confirmed.
+
+### Details
+A search in OpenAlex returned no matching records for this work. Additionally, a scholar search did not find any article matching the exact title, authors, or publication year. The closest results were unrelated works on dropout prevention or by authors with similar names but different years and topics. Therefore, there is no evidence supporting the existence of this specific article.
+
+- [OpenAlex](https://openalex.org)
+- [Google Scholar](https://scholar.google.com)",0.0,1.0
+"Cramer, J. M., & Smith, J. (2015). Rural school dropout prevention: A review of the literature. Journal of Rural Education, 63(1), 1-14.",School dropout prevention programs in rural areas,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""Rural school dropout prevention: A review of the literature"" by Cramer, J. M., & Smith, J. from 2015 could be found in the searched databases or sources. The reference could not be confirmed in any journal or publication.
+
+### Details
+A search was conducted in OpenAlex and other scholarly databases, but no record matching the title, authors, year, or journal was found. The year 2015 and the journal ""Journal of Rural Education"" did not appear in any potential matches. Several related articles on dropout prevention and rural education were found, but none matched the exact reference details provided.
+
+- https://openalex.org
+- https://scholar.google.com",0.0,1.0
+"Davenport, J. T., & Smith, J. (2012). Rural school dropout prevention: A review of the literature. Journal of Rural Education, 60(2), 147-164.",School dropout prevention programs in rural areas,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""Rural school dropout prevention: A review of the literature"" by Davenport and Smith from 2012 could be found in the Journal of Rural Education or elsewhere. The reference could not be confirmed based on available data.
+
+### Details
+A search in OpenAlex and Google Scholar did not find any record matching the title, authors, year, or journal details provided. There were no potential matches or similar works identified to verify this reference.
+
+- [OpenAlex](https://openalex.org)
+- [Google Scholar](https://scholar.google.com)",0.0,1.0
+"Gorman, R. A., & Smith, J. (2016). Rural school dropout prevention: A review of the literature. Journal of Rural Education, 64(1), 1-14.",School dropout prevention programs in rural areas,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""Rural school dropout prevention: A review of the literature"" by Gorman and Smith from 2016 could be found in the Journal of Rural Education or elsewhere. The reference could not be verified based on available data.
+
+### Details
+A search in OpenAlex and Google did not find any record matching the title, authors, year, or journal details provided. There were no potential matches or similar works identified in the databases checked.
+
+- [OpenAlex](https://openalex.org)
+- [Google Search](https://www.google.com)",0.0,1.0
+"Hensel, M. A., & Smith, J. (2018). Rural school dropout prevention: A review of the literature. Journal of Rural Education, 66(2), 165-184.",School dropout prevention programs in rural areas,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Hensel and Smith (2018) titled ""Rural school dropout prevention: A review of the literature"" in the Journal of Rural Education. None of the key details such as title, authors, year, or journal were confirmed.
+
+### Details
+A search was conducted using OpenAlex and a scholarly search tool, but no records matching the title, authors, year, or journal were found. There were no potential matches or evidence candidates to compare against, leading to the conclusion that this reference could not be verified.
+
+- [OpenAlex](https://openalex.org)
+- [Google Scholar](https://scholar.google.com)",0.0,1.0
+"Johnson, K. M., & Smith, J. (2017). Rural school dropout prevention: A review of the literature. Journal of Rural Education, 65(1), 15-28.",School dropout prevention programs in rural areas,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""Rural school dropout prevention: A review of the literature"" by Johnson and Smith from 2017 could be found in the searched databases or sources. The authors, year, title, and journal could not be confirmed.
+
+### Details
+A search in OpenAlex returned no matching records for this reference. Additional searches through academic databases and Google did not find any article matching the exact title, authors, or publication year. Several related articles on rural dropout prevention and education were found, but none matched the given citation details. The year 2017 and the journal ""Journal of Rural Education"" were not confirmed in any results.
+
+- https://openalex.org
+- https://search.proquest.com
+- https://scholar.google.com
+- https://eric.ed.gov",0.0,1.0
+"Lee, J. S., & Smith, J. (2019). Rural school dropout prevention: A review of the literature. Journal of Rural Education, 67(1), 1-14.",School dropout prevention programs in rural areas,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference ""Lee, J. S., & Smith, J. (2019). Rural school dropout prevention: A review of the literature. Journal of Rural Education, 67(1), 1-14."" Despite searching multiple sources, no record matched the authors, title, year, or journal details provided.
+
+### Details
+A search in OpenAlex returned no matching work. Additional searches in scholarly databases found several articles related to rural education and dropout prevention, but none matched the exact title, authors, or publication year of the reference. The year 2019 and the journal ""Journal of Rural Education"" were not confirmed with any found records. Some related articles were found from different years and authors, but none corresponded directly to the given citation.
+
+- https://search.proquest.com/openview/ff57ae45985cb419dd3b03b9c40832ae/1?pq-origsite=gscholar&cbl=2031968
+- https://journals.sagepub.com/doi/abs/10.4073/csr.2011.8
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10372782/
+- https://jrre.psu.edu/sites/default/files/2019-08/27-12.pdf
+- https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.727833/full",0.0,1.0
+"Martin, J. A., & Smith, J. (2015). Rural school dropout prevention: A review of the literature. Journal of Rural Education, 63(2), 147-164.",School dropout prevention programs in rural areas,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""Rural school dropout prevention: A review of the literature"" by Martin and Smith from 2015 could be found in the searched databases or online sources. The reference could not be confirmed in any journal or publication.
+
+### Details
+A search was conducted across multiple sources including OpenAlex, Google Scholar, and general Google search. No records matching the title, authors, year, or journal ""Journal of Rural Education"" were found. The year 2015 and the author names Martin and Smith did not appear in any relevant results related to rural school dropout prevention literature. Several related documents on rural school dropout issues were found, but none matched the exact reference details provided.
+
+- https://www.sciencedirect.com
+- https://dropoutprevention.org
+- https://files.eric.ed.gov
+- https://www.researchgate.net
+- https://pmc.ncbi.nlm.nih.gov
+- https://jrre.psu.edu
+- https://malque.pub",0.0,1.0
+"Anderson, C. J. (2013). The impact of voter turnout on democracy. Journal of Democracy, 24(1), 1-14.",Voter turnout,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,CONTAINS,CONTRADICTION,ABSENT,Bribes and ballots: The impact of corruption on voter turnout in democracies,Daniel Stockemer; Bernadette LaMontagne; Lyle Scruggs,2012,International Political Science Review,10.1177/0192512111419824,https://doi.org/10.1177/0192512111419824,GOOGLE,0,3,1,1,0,The impact of voter turnout on democracy.,Bribes and ballots: The impact of corruption on voter turnout in democracies,"Anderson, C. J.",Daniel Stockemer; Bernadette LaMontagne; Lyle Scruggs,2013,2012,Journal of Democracy,International Political Science Review,,10.1177/0192512111419824,0,0,2,GOOGLE,0,"✗ Title | ✗ Authors | ◐ Year | ✗ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Anderson, C. J. (2013) titled ""The impact of voter turnout on democracy"" in the Journal of Democracy. The best candidate found was a different article with a distinct title, authors, journal, and year.
+
+### Details
+A matching record was not found for the citation. The title in the citation discusses the impact of voter turnout on democracy, while the closest candidate article focuses on corruption's impact on voter turnout, showing a clear difference in topic. The citation author Anderson, C. J. does not overlap with the candidate authors Daniel Stockemer, Bernadette LaMontagne, and Lyle Scruggs. The citation year 2013 is close but does not match exactly with the candidate's 2012. The journals are different: Journal of Democracy versus International Political Science Review. No identifier was provided in the citation to aid verification.
+
+- https://doi.org/10.1177/0192512111419824
+- https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/chicken-and-egg-question-satisfaction-with-democracy-and-voter-turnout/30ED7C7D82E9FE34ED1EC30A7029A5BF",0.0,1.0
+"Black, R. A. (2011). The effects of voter turnout on the democratic process. Journal of Politics, 73(4), 1041-1056.",Voter turnout,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,CONTRADICTION,MATCH,CONTRADICTION,ABSENT,"Fewer Costs, More Votes? United Kingdom Innovations in Election Administration 2000–2007 and the Effect on Voter Turnout",Toby S. James,2011,Election Law Journal Rules Politics and Policy,10.1089/elj.2009.0059,https://doi.org/10.1089/elj.2009.0059,GOOGLE,1,3,0,1,0,The effects of voter turnout on the democratic process.,"Fewer Costs, More Votes? United Kingdom Innovations in Election Administration 2000–2007 and the Effect on Voter Turnout","Black, R. A.",Toby S. James,2011,2011,Journal of Politics,Election Law Journal Rules Politics and Policy,,10.1089/elj.2009.0059,0,0,2,GOOGLE,0,"✗ Title | ✗ Authors | ✓ Year | ✗ Venue | ○ ID
+
+### Summary
+No matching article could be found for the reference by Black, R. A. (2011) titled ""The effects of voter turnout on the democratic process."" The details such as title, authors, and journal do not align with any known records.
+
+### Details
+A search found a different article from 2011 by Toby S. James titled ""Fewer Costs, More Votes? United Kingdom Innovations in Election Administration 2000–2007 and the Effect on Voter Turnout"" published in the Election Law Journal. This differs significantly in title, author, and journal from the cited reference. The year 2011 matches exactly, but the other key details contradict the citation. No identifier was provided in the original reference to assist verification.
+
+- https://doi.org/10.1089/elj.2009.0059",0.0,1.0
+"Brennan, G. (2015). The relationship between voter turnout and the democratic process. Journal of Public Policy, 35(2), 147-164.",Voter turnout,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""The relationship between voter turnout and the democratic process"" by Brennan from 2015 could be found in the searched databases or online sources.
+
+### Details
+A search was conducted in OpenAlex and through academic and general web searches, but no record matching the title, author, year, or journal was found. The year 2015 and the journal ""Journal of Public Policy"" did not appear in any results related to Brennan. Several works by authors named Brennan were found, but none matched the given title or publication details.
+
+- https://openalex.org
+- https://scholar.google.com
+- https://www.google.com",0.0,1.0
+"Dahl, R. A. (1961). The concept of democracy. Journal of Political Science, 70(4), 4-5.",Voter turnout,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""The concept of democracy"" by R. A. Dahl from 1961 in the Journal of Political Science was found. The search did not confirm the authors, year, journal, or other details of the original reference.
+
+### Details
+A search for the exact title found a 2023 publication by Herman Cappelen, which does not match the original author or year. Multiple related articles on the concept of democracy were found, but none matched the original citation details. No evidence candidates were found to confirm the original reference's authorship, publication year, or journal.
+
+- https://doi.org/10.1093/oso/9780198886518.001.0001
+- https://www.elgaronline.com/abstract/edcoll/9781788112642/9781788112642.00008.xml
+- https://journals.sagepub.com/doi/abs/10.1177/0263395715619635",0.0,1.0
+"Diamond, B. (2002). The state and the rise of mass democracy. Journal of Democracy, 13(2), 1-14.",Voter turnout,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article could be found for the reference by Diamond (2002) titled ""The state and the rise of mass democracy"" in the Journal of Democracy. None of the key details such as title, author, year, or journal were confirmed.
+
+### Details
+A search in OpenAlex returned no matching records for this work. Additionally, a scholar search did not find any article with the exact title or publication year 2002 by Diamond in the Journal of Democracy. Some related works by Diamond were found but with different titles and years, such as a 2016 book and a 1997 article, which do not match the reference provided.
+
+- [OpenAlex](https://openalex.org)
+- [Scholar Search Results](https://scholar.google.com)",0.0,1.0
+"Downs, G. W. (1957). An economic theory of voting systems. American Political Science Review, 51(4), 926-952.",Voter turnout,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""An economic theory of voting systems"" by G. W. Downs from 1957 in the American Political Science Review could be found. The search did not confirm the authors, title, year, or journal for this reference.
+
+### Details
+A search in OpenAlex returned no matching records for this work. Additional searches found related works by Anthony Downs around 1957, but none matched the exact title or journal. The closest related works include ""An economic theory of political action in a democracy"" and ""An Economic Theory of Democracy"" book, but these differ in title and publication details. No evidence was found to confirm the original reference as stated.
+
+- https://www.journals.uchicago.edu/doi/abs/10.1086/257897
+- https://link.springer.com/chapter/10.1007/978-3-531-90400-9_27
+- https://journals.openedition.org/oeconomia/10467",0.0,1.0
+"Huntington, S. (1991). The third wave of democracy: The rise of the people. University of Chicago Press.",Voter turnout,llama_3_2_1b,unverified,Reference could not be verified.,CONTRADICTION,MATCH,CONTRADICTION,CONTRADICTION,ABSENT,The Third Wave: Democratization in the Late 20th Century,Samuel P. Huntington,2012,University of Oklahoma Press,,https://play.google.com/store/books/details?id=IMjyTFG04JYC&source=gbs_api,GOOGLE,1,3,0,1,0,The third wave of democracy: The rise of the people.,The Third Wave: Democratization in the Late 20th Century,"Huntington, S.",Samuel P. Huntington,1991,2012,University of Chicago Press,University of Oklahoma Press,,https://play.google.com/store/books/details?id=IMjyTFG04JYC&source=gbs_api,0,0,1,GOOGLE,0,"✗ Title | ✓ Authors | ✗ Year | ✗ Venue | ○ ID
+
+### Summary
+The reference could not be verified as the details do not match any known publication. Although the author Samuel P. Huntington is correct, the title, year, and publisher differ significantly from available records.
+
+### Details
+A matching record was found for a book by Samuel P. Huntington titled ""The Third Wave: Democratization in the Late 20th Century"" published in 2012 by University of Oklahoma Press. This differs from the cited title ""The third wave of democracy: The rise of the people,"" the year 1991, and the publisher University of Chicago Press. No identifier was provided in the citation to aid verification.
+
+- https://play.google.com/store/books/details?id=IMjyTFG04JYC&source=gbs_api",0.0,1.0
+"Ladd, E. (2000). The decline of democracy: A comparative perspective. Journal of Democracy, 11(2), 1-14.",Voter turnout,llama_3_2_1b,unverified,Reference could not be verified.,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,UNCONFIRMED,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,0,"? Title | ? Authors | ? Year | ? Venue | ? ID
+
+### Summary
+No matching article titled ""The decline of democracy: A comparative perspective"" by E. Ladd from the year 2000 could be found in the Journal of Democracy or other sources. The reference could not be verified based on available data.
+
+### Details
+A search through OpenAlex, Google Scholar, and general Google search did not return any records matching the title, author, year, or journal. There were no potential matches found to confirm any part of the reference.
+
+- [OpenAlex](https://openalex.org)
+- [Google Scholar](https://scholar.google.com)
+- [Google Search](https://www.google.com)",0.0,1.0
+"Lijphart, A. S. (1999). Why democracies fail. Yale University Press.",Voter turnout,llama_3_2_1b,needs-human,"Lijphart, Arend. (1999). *Patterns of democracy: Government forms and performance in thirty-six countries*. Yale University Press. https://yalebooks.yale.edu/book/9780300172027/patterns-of-democracy/",CONTRADICTION,MATCH,MATCH,MATCH,ABSENT,Patterns of democracy: Government forms and performance in thirty-six countries,Arend Lijphart,1999,Yale University Press,,https://yalebooks.yale.edu/book/9780300172027/patterns-of-democracy/,GOOGLE,3,1,0,1,0,Why democracies fail.,Patterns of democracy: Government forms and performance in thirty-six countries,"Lijphart, A. S.",Arend Lijphart,1999,1999,Yale University Press,Yale University Press,,https://yalebooks.yale.edu/book/9780300172027/patterns-of-democracy/,0,0,1,GOOGLE,0,"✗ Title | ✓ Authors | ✓ Year | ✓ Venue | ○ ID
+
+### Summary
+The reference to Lijphart's 1999 book was flagged for human review because the title provided, ""Why democracies fail,"" does not match the title found in the evidence, which is ""Patterns of democracy: Government forms and performance in thirty-six countries."" However, the author Arend Lijphart, the year 1999, and the publisher Yale University Press all match exactly.
+
+### Details
+A matching record was found for a 1999 book by Arend Lijphart published by Yale University Press, but the title differs significantly from the cited one. The cited title ""Why democracies fail"" appears to be a different work or possibly a misattribution, while the confirmed title is ""Patterns of democracy: Government forms and performance in thirty-six countries."" The author name matches with abbreviation (A. S. Lijphart vs Arend Lijphart), and the year and publisher are identical. No digital identifier was provided in the citation to further confirm the match.
+
+- https://yalebooks.yale.edu/book/9780300172027/patterns-of-democracy/",0.333,0.667

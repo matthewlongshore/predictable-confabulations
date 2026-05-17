@@ -1,0 +1,911 @@
+model,model_key,active_params_B,total_params_B,architecture,topic,openalex_works,n_refs,authenticity,relevance,quality
+Claude Opus 4.6,claude_opus_46,,,unknown,Biometric voter registration,171,10,0.5433,0.7000,0.3167
+Claude Opus 4.6,claude_opus_46,,,unknown,Climate change,1222665,10,0.8433,0.9000,0.7933
+Claude Opus 4.6,claude_opus_46,,,unknown,Climate change adaptation in agriculture,25815,10,0.9467,0.8500,0.8100
+Claude Opus 4.6,claude_opus_46,,,unknown,Climate-smart agriculture for smallholder farmers,1406,3,0.9111,0.6667,0.5778
+Claude Opus 4.6,claude_opus_46,,,unknown,Democratic elections,48258,10,0.9533,0.7000,0.6717
+Claude Opus 4.6,claude_opus_46,,,unknown,Digital financial services,34424,10,0.9567,0.9500,0.9067
+Claude Opus 4.6,claude_opus_46,,,unknown,Economics,767282,10,0.9800,0.9500,0.9300
+Claude Opus 4.6,claude_opus_46,,,unknown,Education,5921253,10,0.9900,0.9000,0.8900
+Claude Opus 4.6,claude_opus_46,,,unknown,Energy,8631334,10,0.9800,0.9500,0.9300
+Claude Opus 4.6,claude_opus_46,,,unknown,Environmental Science,247835,10,0.9534,1.0000,0.9534
+Claude Opus 4.6,claude_opus_46,,,unknown,Girls education,71707,10,0.8166,0.8500,0.6666
+Claude Opus 4.6,claude_opus_46,,,unknown,Health,8504910,10,0.9867,0.9000,0.8867
+Claude Opus 4.6,claude_opus_46,,,unknown,Infectious disease,469401,10,0.9867,1.0000,0.9867
+Claude Opus 4.6,claude_opus_46,,,unknown,Insecticide-treated bed nets for malaria,1331,10,0.9634,0.7500,0.7317
+Claude Opus 4.6,claude_opus_46,,,unknown,Malaria prevention,13463,10,0.9500,0.9000,0.8550
+Claude Opus 4.6,claude_opus_46,,,unknown,Microfinance loan repayment,1341,10,1.0000,0.9500,0.9500
+Claude Opus 4.6,claude_opus_46,,,unknown,Mini-grid electrification,747,10,0.8367,0.8000,0.6567
+Claude Opus 4.6,claude_opus_46,,,unknown,Mobile banking,17971,10,0.9300,1.0000,0.9300
+Claude Opus 4.6,claude_opus_46,,,unknown,Political Science,285942,10,0.9600,0.8500,0.8300
+Claude Opus 4.6,claude_opus_46,,,unknown,Renewable energy,501950,10,0.9700,0.9000,0.8750
+Claude Opus 4.6,claude_opus_46,,,unknown,Rural electrification,9391,10,0.9033,1.0000,0.9033
+Claude Opus 4.6,claude_opus_46,,,unknown,School dropout,19413,10,0.9200,1.0000,0.9200
+Claude Opus 4.6,claude_opus_46,,,unknown,School dropout prevention programs in rural areas,32,10,0.9500,0.5000,0.4750
+Claude Opus 4.6,claude_opus_46,,,unknown,Voter turnout,10283,10,0.9500,0.9500,0.9000
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Biometric voter registration,171,10,0.7400,0.4000,0.2200
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Climate change,1222665,10,0.7700,0.9000,0.6766
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Climate change adaptation in agriculture,25815,10,0.9667,0.7000,0.6767
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Climate-smart agriculture for smallholder farmers,1406,10,0.8067,0.6000,0.4984
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Democratic elections,48258,10,0.8466,0.6500,0.5333
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Digital financial services,34424,10,0.8934,0.9000,0.7984
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Economics,767282,10,0.8734,0.9000,0.7934
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Education,5921253,10,0.7834,0.9000,0.7167
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Energy,8631334,10,0.8800,0.8000,0.7050
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Environmental Science,247835,10,0.8602,1.0000,0.8602
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Girls education,71707,10,0.8167,0.8500,0.6717
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Health,8504910,10,0.9500,0.7500,0.7200
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Infectious disease,469401,10,0.9067,1.0000,0.9067
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Insecticide-treated bed nets for malaria,1331,10,0.8033,0.8000,0.6866
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Malaria prevention,13463,10,0.9600,0.8000,0.7667
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Microfinance loan repayment,1341,10,0.8233,0.8500,0.6783
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Mini-grid electrification,747,10,0.8367,0.6000,0.5067
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Mobile banking,17971,10,0.9233,0.9000,0.8433
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Political Science,285942,10,0.8900,0.9000,0.8150
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Renewable energy,501950,10,0.9367,0.9000,0.8417
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Rural electrification,9391,10,0.9000,0.8500,0.7650
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,School dropout,19413,10,0.9000,1.0000,0.9000
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,School dropout prevention programs in rural areas,32,10,0.7367,0.5500,0.3767
+Claude Sonnet 4.6,claude_sonnet_46,,,unknown,Voter turnout,10283,10,0.8700,0.8000,0.6800
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Biometric voter registration,171,10,0.1067,0.7000,0.0533
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Climate change,1222665,10,0.7633,0.8500,0.6533
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Climate change adaptation in agriculture,25815,10,0.8266,0.9500,0.7766
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Climate-smart agriculture for smallholder farmers,1406,10,0.8035,0.6500,0.5418
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Democratic elections,48258,10,0.8276,0.8000,0.6888
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Digital financial services,34424,10,0.8233,0.7500,0.6066
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Economics,767282,10,1.0000,0.9000,0.9000
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Education,5921253,10,0.8334,0.9500,0.7884
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Energy,8631334,10,0.8900,0.8500,0.7900
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Environmental Science,247835,10,0.7034,0.8500,0.6234
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Girls education,71707,10,0.7300,0.8000,0.5634
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Health,8504910,10,0.8800,0.6500,0.5900
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Infectious disease,469401,10,0.9767,1.0000,0.9767
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Insecticide-treated bed nets for malaria,1331,10,0.5100,0.9000,0.4150
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Malaria prevention,13463,9,0.7037,0.8889,0.5926
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Microfinance loan repayment,1341,10,0.9800,0.8000,0.7800
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Mini-grid electrification,747,10,0.7667,0.8000,0.6433
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Mobile banking,17971,10,0.9600,0.8000,0.7650
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Political Science,285942,10,0.7501,0.8000,0.5917
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Renewable energy,501950,10,0.5434,0.7500,0.4000
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Rural electrification,9391,10,0.8900,1.0000,0.8900
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,School dropout,19413,9,0.6667,0.9444,0.6167
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,School dropout prevention programs in rural areas,32,10,0.3567,0.6500,0.1683
+DeepSeek R1,deepseek_r1_671b_a37b,37,671,moe,Voter turnout,10283,10,0.8933,0.7000,0.6083
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Biometric voter registration,171,10,0.3933,0.6500,0.1533
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Climate change,1222665,10,0.9200,0.9500,0.8700
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Climate change adaptation in agriculture,25815,10,0.8934,0.9500,0.8501
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Climate-smart agriculture for smallholder farmers,1406,10,0.8267,1.0000,0.8267
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Democratic elections,48258,10,0.9300,0.7500,0.7050
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Digital financial services,34424,10,0.9400,0.9500,0.8900
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Economics,767282,10,1.0000,1.0000,1.0000
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Education,5921253,10,0.7433,0.9500,0.6933
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Energy,8631334,10,0.7900,0.8500,0.6450
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Environmental Science,247835,10,0.8034,1.0000,0.8034
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Girls education,71707,10,0.8864,0.7500,0.6581
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Health,8504910,10,0.9233,0.9500,0.8733
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Infectious disease,469401,10,0.9467,1.0000,0.9467
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Insecticide-treated bed nets for malaria,1331,10,0.9534,0.8000,0.7584
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Malaria prevention,13463,10,0.9067,1.0000,0.9067
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Microfinance loan repayment,1341,10,0.9633,0.7000,0.6716
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Mini-grid electrification,747,10,0.7933,0.8000,0.6716
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Mobile banking,17971,10,0.9267,0.9500,0.8767
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Political Science,285942,10,0.8467,0.9500,0.8067
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Renewable energy,501950,10,0.8600,0.9500,0.8167
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Rural electrification,9391,10,0.8900,0.9000,0.7900
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,School dropout prevention programs in rural areas,32,10,0.4867,0.6000,0.2434
+DeepSeek V3,deepseek_v3_671b_a37b,37,671,moe,Voter turnout,10283,10,0.9400,0.9500,0.8900
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Biometric voter registration,171,10,0.2533,0.9500,0.2033
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Climate change,1222665,10,0.9467,0.9500,0.9033
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Climate change adaptation in agriculture,25815,10,0.8667,1.0000,0.8667
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Climate-smart agriculture for smallholder farmers,1406,10,0.9367,1.0000,0.9367
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Democratic elections,48258,10,0.9000,0.9000,0.8100
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Digital financial services,34424,10,0.9700,0.9500,0.9200
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Economics,767282,10,0.9000,1.0000,0.9000
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Education,5921253,10,0.7833,0.9000,0.6933
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Energy,8631334,10,0.9400,1.0000,0.9400
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Environmental Science,247835,10,0.9335,1.0000,0.9335
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Girls education,71707,10,0.8566,0.9000,0.7650
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Health,8504910,10,0.9600,1.0000,0.9600
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Infectious disease,469401,10,0.9734,1.0000,0.9734
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Insecticide-treated bed nets for malaria,1331,10,0.9468,1.0000,0.9468
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Malaria prevention,13463,10,0.9600,1.0000,0.9600
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Microfinance loan repayment,1341,10,0.9900,0.9500,0.9400
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Mini-grid electrification,747,10,0.9600,1.0000,0.9600
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Mobile banking,17971,10,0.9500,1.0000,0.9500
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Political Science,285942,10,0.8600,1.0000,0.8600
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Renewable energy,501950,10,0.8867,1.0000,0.8867
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Rural electrification,9391,10,0.9800,1.0000,0.9800
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,School dropout,19413,10,0.8266,1.0000,0.8266
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,School dropout prevention programs in rural areas,32,10,0.8533,0.5000,0.4266
+DeepSeek V4 Pro,deepseek_v4_pro_1600b_a49b,49,1600,moe,Voter turnout,10283,10,0.9400,0.8500,0.7900
+Gemma 3 12B,gemma_3_12b,12,12,dense,Biometric voter registration,171,10,0.1133,0.5500,0.0000
+Gemma 3 12B,gemma_3_12b,12,12,dense,Climate change,1222665,10,0.1800,0.9500,0.1800
+Gemma 3 12B,gemma_3_12b,12,12,dense,Climate change adaptation in agriculture,25815,10,0.2000,0.8500,0.1500
+Gemma 3 12B,gemma_3_12b,12,12,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.0633,0.5500,0.0316
+Gemma 3 12B,gemma_3_12b,12,12,dense,Democratic elections,48258,10,0.0300,0.7000,0.0300
+Gemma 3 12B,gemma_3_12b,12,12,dense,Digital financial services,34424,10,0.0500,0.9000,0.0500
+Gemma 3 12B,gemma_3_12b,12,12,dense,Economics,767282,10,0.3999,0.8000,0.3332
+Gemma 3 12B,gemma_3_12b,12,12,dense,Education,5921253,10,0.4467,0.8000,0.3634
+Gemma 3 12B,gemma_3_12b,12,12,dense,Energy,8631334,10,0.3633,0.9000,0.3333
+Gemma 3 12B,gemma_3_12b,12,12,dense,Environmental Science,247835,9,0.1222,0.8889,0.1222
+Gemma 3 12B,gemma_3_12b,12,12,dense,Girls education,71707,10,0.1633,0.6500,0.1066
+Gemma 3 12B,gemma_3_12b,12,12,dense,Health,8504910,10,0.0167,0.6000,0.0083
+Gemma 3 12B,gemma_3_12b,12,12,dense,Infectious disease,469401,10,0.1100,0.9500,0.1100
+Gemma 3 12B,gemma_3_12b,12,12,dense,Insecticide-treated bed nets for malaria,1331,10,0.0000,0.8500,0.0000
+Gemma 3 12B,gemma_3_12b,12,12,dense,Malaria prevention,13463,10,0.1167,0.6500,0.0583
+Gemma 3 12B,gemma_3_12b,12,12,dense,Microfinance loan repayment,1341,10,0.0433,0.5000,0.0217
+Gemma 3 12B,gemma_3_12b,12,12,dense,Mini-grid electrification,747,10,0.0467,0.9000,0.0384
+Gemma 3 12B,gemma_3_12b,12,12,dense,Mobile banking,17971,10,0.0300,0.8000,0.0250
+Gemma 3 12B,gemma_3_12b,12,12,dense,Political Science,285942,10,0.3800,0.8000,0.3800
+Gemma 3 12B,gemma_3_12b,12,12,dense,Renewable energy,501950,10,0.1267,0.9000,0.1217
+Gemma 3 12B,gemma_3_12b,12,12,dense,Rural electrification,9391,10,0.0233,1.0000,0.0233
+Gemma 3 12B,gemma_3_12b,12,12,dense,School dropout,19413,10,0.0667,0.8500,0.0667
+Gemma 3 12B,gemma_3_12b,12,12,dense,School dropout prevention programs in rural areas,32,10,0.1833,0.6500,0.0916
+Gemma 3 12B,gemma_3_12b,12,12,dense,Voter turnout,10283,10,0.1500,0.7000,0.0750
+Gemma 3 27B,gemma_3_27b,27,27,dense,Biometric voter registration,171,10,0.0167,0.7500,0.0083
+Gemma 3 27B,gemma_3_27b,27,27,dense,Climate change,1222665,10,0.3700,0.8500,0.3266
+Gemma 3 27B,gemma_3_27b,27,27,dense,Climate change adaptation in agriculture,25815,10,0.4867,0.6500,0.3084
+Gemma 3 27B,gemma_3_27b,27,27,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.2266,0.7000,0.1183
+Gemma 3 27B,gemma_3_27b,27,27,dense,Democratic elections,48258,10,0.4599,0.6000,0.2800
+Gemma 3 27B,gemma_3_27b,27,27,dense,Digital financial services,34424,10,0.0733,0.9000,0.0733
+Gemma 3 27B,gemma_3_27b,27,27,dense,Economics,767282,10,0.7667,0.9000,0.6667
+Gemma 3 27B,gemma_3_27b,27,27,dense,Education,5921253,10,0.6533,0.9000,0.5799
+Gemma 3 27B,gemma_3_27b,27,27,dense,Energy,8631334,10,0.2466,0.9000,0.2466
+Gemma 3 27B,gemma_3_27b,27,27,dense,Environmental Science,247835,9,0.4408,0.7222,0.3815
+Gemma 3 27B,gemma_3_27b,27,27,dense,Girls education,71707,10,0.1466,0.8500,0.1416
+Gemma 3 27B,gemma_3_27b,27,27,dense,Health,8504910,10,0.3700,0.8500,0.3200
+Gemma 3 27B,gemma_3_27b,27,27,dense,Infectious disease,469401,10,0.2000,0.9500,0.2000
+Gemma 3 27B,gemma_3_27b,27,27,dense,Insecticide-treated bed nets for malaria,1331,10,0.0367,0.9500,0.0367
+Gemma 3 27B,gemma_3_27b,27,27,dense,Malaria prevention,13463,10,0.2167,0.8500,0.1667
+Gemma 3 27B,gemma_3_27b,27,27,dense,Microfinance loan repayment,1341,10,0.3399,0.7000,0.2200
+Gemma 3 27B,gemma_3_27b,27,27,dense,Mini-grid electrification,747,10,0.0834,0.7000,0.0417
+Gemma 3 27B,gemma_3_27b,27,27,dense,Mobile banking,17971,10,0.0267,1.0000,0.0267
+Gemma 3 27B,gemma_3_27b,27,27,dense,Political Science,285942,10,0.8300,0.7000,0.5850
+Gemma 3 27B,gemma_3_27b,27,27,dense,Renewable energy,501950,10,0.2367,0.9000,0.2317
+Gemma 3 27B,gemma_3_27b,27,27,dense,Rural electrification,9391,9,0.0481,0.8889,0.0481
+Gemma 3 27B,gemma_3_27b,27,27,dense,School dropout,19413,10,0.1466,0.8000,0.1433
+Gemma 3 27B,gemma_3_27b,27,27,dense,School dropout prevention programs in rural areas,32,10,0.0300,0.7000,0.0150
+Gemma 3 27B,gemma_3_27b,27,27,dense,Voter turnout,10283,10,0.1066,0.8000,0.1066
+Gemma 3 4B,gemma_3_4b,4,4,dense,Biometric voter registration,171,9,0.0297,0.6667,0.0297
+Gemma 3 4B,gemma_3_4b,4,4,dense,Climate change,1222665,10,0.2733,1.0000,0.2733
+Gemma 3 4B,gemma_3_4b,4,4,dense,Climate change adaptation in agriculture,25815,10,0.0866,0.8000,0.0433
+Gemma 3 4B,gemma_3_4b,4,4,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.0000,0.9000,0.0000
+Gemma 3 4B,gemma_3_4b,4,4,dense,Democratic elections,48258,10,0.0167,0.6500,0.0083
+Gemma 3 4B,gemma_3_4b,4,4,dense,Digital financial services,34424,10,0.0000,0.9500,0.0000
+Gemma 3 4B,gemma_3_4b,4,4,dense,Economics,767282,10,0.1166,0.7500,0.0950
+Gemma 3 4B,gemma_3_4b,4,4,dense,Education,5921253,10,0.4967,0.9000,0.4601
+Gemma 3 4B,gemma_3_4b,4,4,dense,Energy,8631334,10,0.1200,0.8500,0.1200
+Gemma 3 4B,gemma_3_4b,4,4,dense,Environmental Science,247835,10,0.1700,0.8500,0.1200
+Gemma 3 4B,gemma_3_4b,4,4,dense,Girls education,71707,10,0.2166,0.8000,0.1499
+Gemma 3 4B,gemma_3_4b,4,4,dense,Health,8504910,10,0.1890,0.8000,0.1673
+Gemma 3 4B,gemma_3_4b,4,4,dense,Infectious disease,469401,10,0.1000,0.9500,0.1000
+Gemma 3 4B,gemma_3_4b,4,4,dense,Insecticide-treated bed nets for malaria,1331,10,0.0167,0.8500,0.0167
+Gemma 3 4B,gemma_3_4b,4,4,dense,Malaria prevention,13463,10,0.1233,0.9500,0.0733
+Gemma 3 4B,gemma_3_4b,4,4,dense,Microfinance loan repayment,1341,10,0.0700,0.5500,0.0350
+Gemma 3 4B,gemma_3_4b,4,4,dense,Mini-grid electrification,747,10,0.0167,0.9500,0.0167
+Gemma 3 4B,gemma_3_4b,4,4,dense,Mobile banking,17971,10,0.0234,1.0000,0.0234
+Gemma 3 4B,gemma_3_4b,4,4,dense,Political Science,285942,10,0.1433,0.7500,0.0817
+Gemma 3 4B,gemma_3_4b,4,4,dense,Renewable energy,501950,10,0.1033,0.9500,0.1033
+Gemma 3 4B,gemma_3_4b,4,4,dense,Rural electrification,9391,10,0.0000,1.0000,0.0000
+Gemma 3 4B,gemma_3_4b,4,4,dense,School dropout,19413,10,0.0633,0.8000,0.0316
+Gemma 3 4B,gemma_3_4b,4,4,dense,School dropout prevention programs in rural areas,32,10,0.0000,0.9000,0.0000
+Gemma 3 4B,gemma_3_4b,4,4,dense,Voter turnout,10283,10,0.0267,0.9000,0.0267
+Gemma 4 31B,gemma_4_31b,31,31,dense,Biometric voter registration,171,9,0.0333,1.0000,0.0333
+Gemma 4 31B,gemma_4_31b,31,31,dense,Climate change,1222665,10,0.4101,1.0000,0.4101
+Gemma 4 31B,gemma_4_31b,31,31,dense,Climate change adaptation in agriculture,25815,10,0.4200,0.8500,0.2900
+Gemma 4 31B,gemma_4_31b,31,31,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.3400,0.9500,0.2900
+Gemma 4 31B,gemma_4_31b,31,31,dense,Democratic elections,48258,10,0.5566,0.8000,0.4166
+Gemma 4 31B,gemma_4_31b,31,31,dense,Digital financial services,34424,10,0.7467,1.0000,0.7467
+Gemma 4 31B,gemma_4_31b,31,31,dense,Economics,767282,10,0.8667,0.9500,0.8667
+Gemma 4 31B,gemma_4_31b,31,31,dense,Education,5921253,10,0.6866,1.0000,0.6866
+Gemma 4 31B,gemma_4_31b,31,31,dense,Energy,8631334,10,0.4533,0.9500,0.4033
+Gemma 4 31B,gemma_4_31b,31,31,dense,Environmental Science,247835,10,0.3233,0.9500,0.3233
+Gemma 4 31B,gemma_4_31b,31,31,dense,Girls education,71707,10,0.4599,0.7500,0.3382
+Gemma 4 31B,gemma_4_31b,31,31,dense,Health,8504910,9,0.3962,0.9444,0.3962
+Gemma 4 31B,gemma_4_31b,31,31,dense,Infectious disease,469401,10,0.4933,0.9500,0.4433
+Gemma 4 31B,gemma_4_31b,31,31,dense,Insecticide-treated bed nets for malaria,1331,10,0.1000,0.8500,0.0583
+Gemma 4 31B,gemma_4_31b,31,31,dense,Malaria prevention,13463,10,0.1533,0.9000,0.1533
+Gemma 4 31B,gemma_4_31b,31,31,dense,Microfinance loan repayment,1341,10,0.1467,0.8500,0.0733
+Gemma 4 31B,gemma_4_31b,31,31,dense,Mini-grid electrification,747,10,0.1267,1.0000,0.1267
+Gemma 4 31B,gemma_4_31b,31,31,dense,Mobile banking,17971,10,0.2566,0.9000,0.1566
+Gemma 4 31B,gemma_4_31b,31,31,dense,Political Science,285942,10,0.6367,1.0000,0.6367
+Gemma 4 31B,gemma_4_31b,31,31,dense,Renewable energy,501950,9,0.3926,0.9444,0.3463
+Gemma 4 31B,gemma_4_31b,31,31,dense,Rural electrification,9391,10,0.1099,0.9000,0.0683
+Gemma 4 31B,gemma_4_31b,31,31,dense,School dropout,19413,10,0.2733,0.9500,0.2233
+Gemma 4 31B,gemma_4_31b,31,31,dense,School dropout prevention programs in rural areas,32,10,0.0333,0.9000,0.0333
+Gemma 4 31B,gemma_4_31b,31,31,dense,Voter turnout,10283,10,0.3499,0.9500,0.3083
+GPT-5,gpt_5,,,unknown,Biometric voter registration,171,10,0.3266,0.7000,0.1633
+GPT-5,gpt_5,,,unknown,Climate change,1222665,10,0.9133,0.7000,0.6233
+GPT-5,gpt_5,,,unknown,Climate change adaptation in agriculture,25815,9,0.8408,1.0000,0.8408
+GPT-5,gpt_5,,,unknown,Climate-smart agriculture for smallholder farmers,1406,10,0.6067,0.8000,0.5150
+GPT-5,gpt_5,,,unknown,Democratic elections,48258,7,0.9761,0.5714,0.5595
+GPT-5,gpt_5,,,unknown,Digital financial services,34424,10,0.8634,1.0000,0.8634
+GPT-5,gpt_5,,,unknown,Economics,767282,10,0.9900,1.0000,0.9900
+GPT-5,gpt_5,,,unknown,Education,5921253,10,0.9733,0.8500,0.8283
+GPT-5,gpt_5,,,unknown,Energy,8631334,7,0.9524,0.8571,0.8096
+GPT-5,gpt_5,,,unknown,Environmental Science,247835,10,0.8401,1.0000,0.8401
+GPT-5,gpt_5,,,unknown,Girls education,71707,9,0.9407,0.8889,0.8388
+GPT-5,gpt_5,,,unknown,Health,8504910,10,0.9733,0.8500,0.8283
+GPT-5,gpt_5,,,unknown,Infectious disease,469401,10,0.9733,0.9500,0.9283
+GPT-5,gpt_5,,,unknown,Insecticide-treated bed nets for malaria,1331,9,0.8443,0.8333,0.7184
+GPT-5,gpt_5,,,unknown,Malaria prevention,13463,10,0.9634,0.9000,0.8634
+GPT-5,gpt_5,,,unknown,Microfinance loan repayment,1341,10,0.8566,0.9000,0.7566
+GPT-5,gpt_5,,,unknown,Mini-grid electrification,747,10,0.7633,0.8500,0.6500
+GPT-5,gpt_5,,,unknown,Mobile banking,17971,10,0.9466,1.0000,0.9466
+GPT-5,gpt_5,,,unknown,Political Science,285942,9,0.9889,0.7778,0.7667
+GPT-5,gpt_5,,,unknown,Renewable energy,501950,10,0.8933,0.9500,0.8517
+GPT-5,gpt_5,,,unknown,Rural electrification,9391,8,0.7750,1.0000,0.7750
+GPT-5,gpt_5,,,unknown,School dropout,19413,10,0.9600,1.0000,0.9600
+GPT-5,gpt_5,,,unknown,School dropout prevention programs in rural areas,32,10,0.8900,0.5500,0.4950
+GPT-5,gpt_5,,,unknown,Voter turnout,10283,10,0.9700,0.9000,0.8800
+GPT-5.4,gpt_54,,,unknown,Biometric voter registration,171,10,0.4167,0.6500,0.2183
+GPT-5.4,gpt_54,,,unknown,Climate change,1222665,10,0.8500,1.0000,0.8500
+GPT-5.4,gpt_54,,,unknown,Climate change adaptation in agriculture,25815,10,0.9400,0.9000,0.8400
+GPT-5.4,gpt_54,,,unknown,Climate-smart agriculture for smallholder farmers,1406,10,0.9301,0.5500,0.5151
+GPT-5.4,gpt_54,,,unknown,Democratic elections,48258,10,0.9833,0.7000,0.6833
+GPT-5.4,gpt_54,,,unknown,Digital financial services,34424,10,0.8633,0.8000,0.7067
+GPT-5.4,gpt_54,,,unknown,Economics,767282,10,0.9300,0.9500,0.8800
+GPT-5.4,gpt_54,,,unknown,Education,5921253,10,0.7167,0.9000,0.6433
+GPT-5.4,gpt_54,,,unknown,Energy,8631334,10,0.7901,0.9000,0.7401
+GPT-5.4,gpt_54,,,unknown,Environmental Science,247835,10,1.0000,1.0000,1.0000
+GPT-5.4,gpt_54,,,unknown,Girls education,71707,10,0.8900,0.8000,0.7000
+GPT-5.4,gpt_54,,,unknown,Health,8504910,10,1.0000,0.8500,0.8500
+GPT-5.4,gpt_54,,,unknown,Infectious disease,469401,10,0.9900,0.9000,0.8900
+GPT-5.4,gpt_54,,,unknown,Insecticide-treated bed nets for malaria,1331,10,0.9201,0.9500,0.8768
+GPT-5.4,gpt_54,,,unknown,Malaria prevention,13463,10,0.7700,0.9500,0.7200
+GPT-5.4,gpt_54,,,unknown,Microfinance loan repayment,1341,10,0.9667,0.8500,0.8217
+GPT-5.4,gpt_54,,,unknown,Mini-grid electrification,747,10,0.8000,0.8000,0.6200
+GPT-5.4,gpt_54,,,unknown,Mobile banking,17971,10,0.9700,0.9500,0.9200
+GPT-5.4,gpt_54,,,unknown,Political Science,285942,10,0.8634,0.9500,0.8134
+GPT-5.4,gpt_54,,,unknown,Renewable energy,501950,10,0.9300,0.9000,0.8350
+GPT-5.4,gpt_54,,,unknown,Rural electrification,9391,10,0.9367,0.9000,0.8367
+GPT-5.4,gpt_54,,,unknown,School dropout,19413,10,0.9600,1.0000,0.9600
+GPT-5.4,gpt_54,,,unknown,School dropout prevention programs in rural areas,32,10,0.8500,0.5000,0.4250
+GPT-5.4,gpt_54,,,unknown,Voter turnout,10283,10,0.9534,0.9500,0.9101
+GPT-5 Mini,gpt_5_mini,,,unknown,Biometric voter registration,171,10,0.2899,0.8500,0.1899
+GPT-5 Mini,gpt_5_mini,,,unknown,Climate change,1222665,10,0.8966,0.8500,0.7600
+GPT-5 Mini,gpt_5_mini,,,unknown,Climate change adaptation in agriculture,25815,10,0.8766,0.7500,0.6316
+GPT-5 Mini,gpt_5_mini,,,unknown,Climate-smart agriculture for smallholder farmers,1406,9,0.6667,0.6111,0.3333
+GPT-5 Mini,gpt_5_mini,,,unknown,Democratic elections,48258,10,0.9000,0.5500,0.4950
+GPT-5 Mini,gpt_5_mini,,,unknown,Digital financial services,34424,10,0.7166,0.8500,0.5999
+GPT-5 Mini,gpt_5_mini,,,unknown,Economics,767282,10,0.8467,0.9000,0.7933
+GPT-5 Mini,gpt_5_mini,,,unknown,Education,5921253,10,0.8667,0.9500,0.8367
+GPT-5 Mini,gpt_5_mini,,,unknown,Energy,8631334,10,0.8900,0.7500,0.6900
+GPT-5 Mini,gpt_5_mini,,,unknown,Environmental Science,247835,10,0.9167,0.9500,0.8667
+GPT-5 Mini,gpt_5_mini,,,unknown,Girls education,71707,10,0.7967,0.8500,0.6750
+GPT-5 Mini,gpt_5_mini,,,unknown,Health,8504910,10,0.9700,0.8000,0.7766
+GPT-5 Mini,gpt_5_mini,,,unknown,Infectious disease,469401,10,0.9400,1.0000,0.9400
+GPT-5 Mini,gpt_5_mini,,,unknown,Insecticide-treated bed nets for malaria,1331,10,0.5600,0.7500,0.3700
+GPT-5 Mini,gpt_5_mini,,,unknown,Malaria prevention,13463,9,0.6520,0.9444,0.6483
+GPT-5 Mini,gpt_5_mini,,,unknown,Microfinance loan repayment,1341,9,0.8333,0.6111,0.4722
+GPT-5 Mini,gpt_5_mini,,,unknown,Mini-grid electrification,747,10,0.4232,0.7500,0.3133
+GPT-5 Mini,gpt_5_mini,,,unknown,Mobile banking,17971,10,0.9300,0.6000,0.5600
+GPT-5 Mini,gpt_5_mini,,,unknown,Political Science,285942,10,0.9867,0.8000,0.7867
+GPT-5 Mini,gpt_5_mini,,,unknown,Renewable energy,501950,10,0.9233,0.8500,0.7783
+GPT-5 Mini,gpt_5_mini,,,unknown,Rural electrification,9391,10,0.6265,0.7500,0.4132
+GPT-5 Mini,gpt_5_mini,,,unknown,School dropout,19413,10,0.9233,0.9500,0.8733
+GPT-5 Mini,gpt_5_mini,,,unknown,School dropout prevention programs in rural areas,32,10,0.7400,0.5000,0.3700
+GPT-5 Mini,gpt_5_mini,,,unknown,Voter turnout,10283,10,0.9034,0.8500,0.7851
+GPT-5 Nano,gpt_5_nano,,,unknown,Climate change,1222665,10,0.6567,0.9500,0.6401
+GPT-5 Nano,gpt_5_nano,,,unknown,Climate change adaptation in agriculture,25815,10,0.4232,0.8500,0.3065
+GPT-5 Nano,gpt_5_nano,,,unknown,Climate-smart agriculture for smallholder farmers,1406,10,0.2034,0.7500,0.1517
+GPT-5 Nano,gpt_5_nano,,,unknown,Democratic elections,48258,10,0.8033,0.5500,0.4317
+GPT-5 Nano,gpt_5_nano,,,unknown,Digital financial services,34424,10,0.7100,0.8000,0.5200
+GPT-5 Nano,gpt_5_nano,,,unknown,Economics,767282,10,0.8766,0.8500,0.7466
+GPT-5 Nano,gpt_5_nano,,,unknown,Education,5921253,10,0.8901,0.8500,0.7468
+GPT-5 Nano,gpt_5_nano,,,unknown,Energy,8631334,10,0.3699,0.9000,0.3299
+GPT-5 Nano,gpt_5_nano,,,unknown,Environmental Science,247835,9,0.8333,0.8889,0.7333
+GPT-5 Nano,gpt_5_nano,,,unknown,Girls education,71707,10,0.6566,0.6000,0.3800
+GPT-5 Nano,gpt_5_nano,,,unknown,Health,8504910,10,0.9533,0.6500,0.6266
+GPT-5 Nano,gpt_5_nano,,,unknown,Infectious disease,469401,10,1.0000,0.9500,0.9500
+GPT-5 Nano,gpt_5_nano,,,unknown,Insecticide-treated bed nets for malaria,1331,10,0.2000,0.8500,0.1650
+GPT-5 Nano,gpt_5_nano,,,unknown,Malaria prevention,13463,10,0.4566,0.9000,0.3783
+GPT-5 Nano,gpt_5_nano,,,unknown,Microfinance loan repayment,1341,10,0.5199,0.6500,0.2749
+GPT-5 Nano,gpt_5_nano,,,unknown,Mini-grid electrification,747,10,0.0933,0.9500,0.0933
+GPT-5 Nano,gpt_5_nano,,,unknown,Mobile banking,17971,10,0.3334,0.7500,0.2100
+GPT-5 Nano,gpt_5_nano,,,unknown,Political Science,285942,10,0.9433,1.0000,0.9433
+GPT-5 Nano,gpt_5_nano,,,unknown,Renewable energy,501950,10,0.4532,0.9500,0.4082
+GPT-5 Nano,gpt_5_nano,,,unknown,Rural electrification,9391,10,0.1966,0.8000,0.1333
+GPT-5 Nano,gpt_5_nano,,,unknown,School dropout,19413,10,0.1666,1.0000,0.1666
+GPT-5 Nano,gpt_5_nano,,,unknown,School dropout prevention programs in rural areas,32,10,0.1266,0.7000,0.0633
+GPT-5 Nano,gpt_5_nano,,,unknown,Voter turnout,10283,8,0.7290,0.8125,0.5477
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Biometric voter registration,171,10,0.0000,0.8500,0.0000
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Climate change,1222665,10,0.1800,0.7000,0.1400
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Climate change adaptation in agriculture,25815,10,0.2767,0.9000,0.2167
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Climate-smart agriculture for smallholder farmers,1406,10,0.0300,1.0000,0.0300
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Democratic elections,48258,10,0.0000,0.7000,0.0000
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Digital financial services,34424,10,0.1900,0.8500,0.1400
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Economics,767282,10,0.6467,0.7500,0.5184
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Education,5921253,10,0.4600,0.9500,0.4100
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Energy,8631334,10,0.1633,0.6000,0.1316
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Environmental Science,247835,10,0.0633,0.9000,0.0633
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Girls education,71707,10,0.0033,0.9500,0.0033
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Health,8504910,10,0.1233,0.7500,0.0933
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Infectious disease,469401,10,0.6400,1.0000,0.6400
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Insecticide-treated bed nets for malaria,1331,10,0.1900,0.9000,0.1867
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Malaria prevention,13463,10,0.0833,0.9000,0.0416
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Microfinance loan repayment,1341,10,0.1466,0.8500,0.0749
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Mini-grid electrification,747,10,0.0167,0.9000,0.0083
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Mobile banking,17971,10,0.0133,1.0000,0.0133
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Political Science,285942,10,0.0450,0.8000,0.0225
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Renewable energy,501950,10,0.0167,0.8000,0.0167
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Rural electrification,9391,10,0.0466,0.9000,0.0466
+GPT-OSS,gpt_oss_120b,5.1,120,moe,School dropout,19413,10,0.0333,0.9500,0.0333
+GPT-OSS,gpt_oss_120b,5.1,120,moe,School dropout prevention programs in rural areas,32,10,0.0200,0.8500,0.0200
+GPT-OSS,gpt_oss_120b,5.1,120,moe,Voter turnout,10283,10,0.5000,0.8500,0.4083
+Grok 3,grok_3,,,unknown,Biometric voter registration,171,10,0.2233,0.9000,0.1233
+Grok 3,grok_3,,,unknown,Climate change,1222665,10,0.9067,1.0000,0.9067
+Grok 3,grok_3,,,unknown,Climate change adaptation in agriculture,25815,10,0.9033,0.7500,0.6850
+Grok 3,grok_3,,,unknown,Climate-smart agriculture for smallholder farmers,1406,10,0.9033,0.9500,0.8533
+Grok 3,grok_3,,,unknown,Democratic elections,48258,10,0.9400,0.9000,0.8400
+Grok 3,grok_3,,,unknown,Digital financial services,34424,10,0.9200,0.8000,0.7500
+Grok 3,grok_3,,,unknown,Economics,767282,10,0.9300,0.9500,0.8800
+Grok 3,grok_3,,,unknown,Education,5921253,10,0.8433,0.9000,0.7433
+Grok 3,grok_3,,,unknown,Energy,8631334,10,0.0333,1.0000,0.0333
+Grok 3,grok_3,,,unknown,Environmental Science,247835,10,0.0067,1.0000,0.0067
+Grok 3,grok_3,,,unknown,Girls education,71707,10,0.9667,0.8500,0.8267
+Grok 3,grok_3,,,unknown,Health,8504910,10,0.0000,1.0000,0.0000
+Grok 3,grok_3,,,unknown,Infectious disease,469401,10,0.9767,1.0000,0.9767
+Grok 3,grok_3,,,unknown,Insecticide-treated bed nets for malaria,1331,10,0.8833,1.0000,0.8833
+Grok 3,grok_3,,,unknown,Malaria prevention,13463,10,0.9233,1.0000,0.9233
+Grok 3,grok_3,,,unknown,Microfinance loan repayment,1341,10,0.9733,0.7000,0.6817
+Grok 3,grok_3,,,unknown,Mini-grid electrification,747,10,0.9733,1.0000,0.9733
+Grok 3,grok_3,,,unknown,Mobile banking,17971,10,0.9133,1.0000,0.9133
+Grok 3,grok_3,,,unknown,Political Science,285942,10,0.9533,0.9500,0.9033
+Grok 3,grok_3,,,unknown,Renewable energy,501950,10,0.9667,0.9500,0.9167
+Grok 3,grok_3,,,unknown,Rural electrification,9391,10,0.8800,1.0000,0.8800
+Grok 3,grok_3,,,unknown,School dropout,19413,10,1.0000,1.0000,1.0000
+Grok 3,grok_3,,,unknown,School dropout prevention programs in rural areas,32,10,0.0000,1.0000,0.0000
+Grok 3,grok_3,,,unknown,Voter turnout,10283,10,0.9567,0.9000,0.8567
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Biometric voter registration,171,10,0.0167,0.9500,0.0167
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Climate change,1222665,9,0.8444,0.7778,0.6389
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Climate change adaptation in agriculture,25815,10,0.9200,0.8000,0.7533
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Climate-smart agriculture for smallholder farmers,1406,10,0.3699,0.6000,0.2200
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Democratic elections,48258,10,0.6766,0.7500,0.4750
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Digital financial services,34424,10,0.7799,0.8000,0.6149
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Economics,767282,10,0.8434,0.9000,0.7484
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Education,5921253,10,0.8567,0.7000,0.6050
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Energy,8631334,10,0.2525,0.7000,0.1700
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Environmental Science,247835,10,0.6567,1.0000,0.6567
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Girls education,71707,10,0.3399,0.7500,0.2600
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Health,8504910,10,0.5508,0.7000,0.3554
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Infectious disease,469401,10,0.9500,0.9500,0.9000
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Insecticide-treated bed nets for malaria,1331,10,0.9334,1.0000,0.9334
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Malaria prevention,13463,10,0.8400,0.7500,0.6700
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Microfinance loan repayment,1341,10,0.7733,0.7500,0.5733
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Mini-grid electrification,747,10,0.4200,0.8000,0.2750
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Mobile banking,17971,10,0.5800,1.0000,0.5800
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Political Science,285942,10,0.9667,1.0000,0.9667
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Renewable energy,501950,10,0.7600,0.9000,0.7600
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Rural electrification,9391,10,0.6800,0.9000,0.5800
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,School dropout,19413,10,0.8567,0.9500,0.8117
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,School dropout prevention programs in rural areas,32,10,0.3357,0.7500,0.2124
+Kimi K2,kimi_k2_1t_a32b,32,1000,moe,Voter turnout,10283,10,0.9367,0.9500,0.8917
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Biometric voter registration,171,10,0.9000,0.5000,0.4500
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Climate change,1222665,10,0.8967,0.9500,0.8467
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Climate change adaptation in agriculture,25815,10,0.9600,0.9000,0.8650
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.8135,0.6500,0.5184
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Democratic elections,48258,10,0.9600,0.7000,0.6734
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Digital financial services,34424,10,1.0000,0.8000,0.8000
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Economics,767282,10,1.0000,0.8500,0.8500
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Education,5921253,10,0.8600,0.7500,0.6300
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Energy,8631334,10,0.8900,0.9000,0.7900
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Environmental Science,247835,10,0.8935,1.0000,0.8935
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Girls education,71707,10,0.7733,0.6000,0.4817
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Health,8504910,10,0.9235,0.8500,0.7802
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Infectious disease,469401,10,0.9900,0.9500,0.9400
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Insecticide-treated bed nets for malaria,1331,10,0.9567,0.9000,0.8633
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Malaria prevention,13463,8,0.8417,0.7500,0.6542
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Microfinance loan repayment,1341,10,0.9100,0.5000,0.4550
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Mini-grid electrification,747,10,0.9000,0.7500,0.6550
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Mobile banking,17971,10,0.9400,0.9500,0.8900
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Political Science,285942,8,0.8250,0.6875,0.5938
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Renewable energy,501950,7,0.6904,0.8571,0.6333
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Rural electrification,9391,9,0.7259,0.8333,0.6296
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,School dropout,19413,10,0.9367,0.9500,0.9067
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,School dropout prevention programs in rural areas,32,10,0.5833,0.5000,0.2900
+Llama 3.1 405B Hermes,llama_3_1_405b,405,405,dense,Voter turnout,10283,9,0.9371,0.8333,0.7704
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Biometric voter registration,171,10,0.0900,0.8000,0.0450
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Climate change,1222665,10,0.8534,0.9500,0.8101
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Climate change adaptation in agriculture,25815,10,0.8600,0.8500,0.7150
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.5867,0.8000,0.4184
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Democratic elections,48258,10,0.9800,0.5500,0.5300
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Digital financial services,34424,10,0.8167,0.7000,0.5784
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Economics,767282,10,0.9233,0.8500,0.7783
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Education,5921253,10,0.7500,0.8500,0.6300
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Energy,8631334,10,0.8100,0.9000,0.7417
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Environmental Science,247835,10,0.9367,0.9500,0.8867
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Girls education,71707,9,0.9519,0.8333,0.7982
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Health,8504910,10,0.6367,0.5500,0.3684
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Infectious disease,469401,10,0.8301,0.9500,0.7867
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Insecticide-treated bed nets for malaria,1331,10,0.8801,0.9500,0.8301
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Malaria prevention,13463,8,0.9500,0.8750,0.8250
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Microfinance loan repayment,1341,10,0.9800,0.6000,0.5900
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Mini-grid electrification,747,10,0.4233,0.9000,0.3533
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Mobile banking,17971,10,0.8700,0.8000,0.6850
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Political Science,285942,10,0.8633,0.7500,0.6666
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Renewable energy,501950,7,0.7000,0.9286,0.6286
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Rural electrification,9391,9,0.7667,0.8889,0.6611
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,School dropout,19413,10,0.9767,0.9500,0.9267
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,School dropout prevention programs in rural areas,32,10,0.2633,0.6000,0.1316
+Llama 3.1 405B base,llama_3_1_405b_base,405,405,dense,Voter turnout,10283,8,0.9875,0.9375,0.9250
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Biometric voter registration,171,10,0.0000,1.0000,0.0000
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Climate change,1222665,8,0.7917,1.0000,0.7917
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Climate change adaptation in agriculture,25815,9,0.9667,0.6667,0.6333
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Climate-smart agriculture for smallholder farmers,1406,9,0.4112,0.8889,0.3797
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Democratic elections,48258,9,0.7852,0.8333,0.6797
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Digital financial services,34424,9,0.6148,0.8889,0.5037
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Economics,767282,9,0.9556,0.9444,0.9000
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Education,5921253,10,0.7366,0.9000,0.6666
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Energy,8631334,10,0.5766,0.9500,0.5399
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Environmental Science,247835,10,0.8301,0.9500,0.7801
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Girls education,71707,1,1.0000,0.5000,0.5000
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Health,8504910,8,0.7375,0.9375,0.6750
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Infectious disease,469401,9,0.8444,1.0000,0.8444
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Insecticide-treated bed nets for malaria,1331,9,0.8927,0.9444,0.8371
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Malaria prevention,13463,9,0.8890,0.8333,0.7279
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Microfinance loan repayment,1341,9,0.7370,0.6111,0.4241
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Mini-grid electrification,747,9,0.4408,0.8333,0.3871
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Mobile banking,17971,9,0.7111,0.7778,0.5389
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Political Science,285942,9,0.8556,0.8889,0.7556
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Renewable energy,501950,10,0.7200,1.0000,0.7200
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Rural electrification,9391,9,0.4999,0.8333,0.4554
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,School dropout,19413,9,0.7259,1.0000,0.7259
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,School dropout prevention programs in rural areas,32,10,0.7967,0.5000,0.3983
+Llama 3.1 70B,llama_3_1_70b,70,70,dense,Voter turnout,10283,9,0.9222,0.8333,0.7741
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Biometric voter registration,171,10,0.0500,0.9500,0.0334
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Climate change,1222665,9,0.6667,0.8889,0.6556
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Climate change adaptation in agriculture,25815,10,0.5166,0.6000,0.3317
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Climate-smart agriculture for smallholder farmers,1406,9,0.3000,0.5000,0.1500
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Democratic elections,48258,10,0.5066,0.7000,0.3483
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Digital financial services,34424,10,0.5199,0.6000,0.2916
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Economics,767282,10,0.8233,0.9500,0.7733
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Education,5921253,10,0.8899,0.8000,0.6983
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Energy,8631334,9,0.3962,0.7222,0.2703
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Environmental Science,247835,10,0.7500,0.7500,0.5700
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Girls education,71707,10,0.4132,0.6000,0.2066
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Health,8504910,10,0.5766,0.7500,0.5115
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Infectious disease,469401,10,0.4701,0.9500,0.4201
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Insecticide-treated bed nets for malaria,1331,10,0.1533,0.9000,0.1533
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Malaria prevention,13463,10,0.2267,0.9500,0.2267
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Microfinance loan repayment,1341,10,0.5332,0.4500,0.2666
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Mini-grid electrification,747,3,0.0000,1.0000,0.0000
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Mobile banking,17971,8,0.1375,0.8750,0.1375
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Political Science,285942,10,0.7867,0.8000,0.6417
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Renewable energy,501950,10,0.0734,0.7500,0.0650
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Rural electrification,9391,10,0.1600,0.9000,0.1100
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,School dropout,19413,10,0.3699,0.8000,0.2883
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,School dropout prevention programs in rural areas,32,9,0.2259,0.5556,0.1037
+Llama 3.1 8B,llama_3_1_8b,8,8,dense,Voter turnout,10283,10,0.4931,0.7000,0.3415
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Biometric voter registration,171,9,0.0000,1.0000,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Climate change,1222665,7,0.3549,1.0000,0.3549
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Climate change adaptation in agriculture,25815,9,0.0870,0.5000,0.0435
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Climate-smart agriculture for smallholder farmers,1406,4,0.0000,0.7500,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Democratic elections,48258,9,0.0000,0.5000,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Digital financial services,34424,9,0.0000,1.0000,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Economics,767282,9,0.1815,0.7778,0.1167
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Education,5921253,8,0.4354,0.7500,0.3885
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Energy,8631334,4,0.2500,0.8750,0.1250
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Environmental Science,247835,9,0.0000,0.9444,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Girls education,71707,9,0.0000,1.0000,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Health,8504910,7,0.0380,0.7857,0.0380
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Infectious disease,469401,6,0.0167,1.0000,0.0167
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Insecticide-treated bed nets for malaria,1331,3,0.0557,1.0000,0.0557
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Malaria prevention,13463,3,0.4750,1.0000,0.4750
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Microfinance loan repayment,1341,4,0.0000,0.3750,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Mini-grid electrification,747,9,0.0000,1.0000,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Mobile banking,17971,5,0.0000,1.0000,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Political Science,285942,2,0.3000,1.0000,0.3000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Renewable energy,501950,9,0.0556,0.8889,0.0500
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Rural electrification,9391,7,0.0000,1.0000,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,School dropout,19413,8,0.0000,1.0000,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,School dropout prevention programs in rural areas,32,2,0.0000,1.0000,0.0000
+Llama 3.2 1B,llama_3_2_1b,1,1,dense,Voter turnout,10283,9,0.0370,0.6667,0.0185
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Biometric voter registration,171,10,0.0267,1.0000,0.0267
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Climate change,1222665,10,0.7234,0.9000,0.6501
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Climate change adaptation in agriculture,25815,10,0.5166,0.6500,0.3383
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.0300,0.7500,0.0150
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Democratic elections,48258,8,0.8416,0.6250,0.5458
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Digital financial services,34424,10,0.4666,0.7500,0.2999
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Economics,767282,10,1.0000,0.9000,0.9000
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Education,5921253,9,0.8963,0.7778,0.7000
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Energy,8631334,10,0.2933,0.9500,0.2433
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Environmental Science,247835,10,0.8401,0.8500,0.7218
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Girls education,71707,10,0.4001,0.9000,0.3401
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Health,8504910,10,0.8966,0.8000,0.7016
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Infectious disease,469401,10,0.8133,0.9000,0.7316
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Insecticide-treated bed nets for malaria,1331,9,0.5259,0.8333,0.4056
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Malaria prevention,13463,10,0.9334,0.6500,0.6034
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Microfinance loan repayment,1341,10,0.6465,0.5000,0.3232
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Mini-grid electrification,747,10,0.2867,0.7500,0.1517
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Mobile banking,17971,10,0.4366,0.9500,0.3866
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Political Science,285942,10,0.9067,0.9500,0.8567
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Renewable energy,501950,10,0.0566,0.8500,0.0566
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Rural electrification,9391,10,0.5499,0.7000,0.3683
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,School dropout,19413,10,0.6200,0.9500,0.6200
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,School dropout prevention programs in rural areas,32,10,0.1067,0.8000,0.0533
+Llama 3.3 70B,llama_3_3_70b,70,70,dense,Voter turnout,10283,10,0.8700,0.8000,0.6700
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Biometric voter registration,171,10,0.2800,0.8000,0.1400
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Climate change,1222665,10,0.8631,0.9500,0.8181
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Climate change adaptation in agriculture,25815,10,0.7033,0.7500,0.4816
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Climate-smart agriculture for smallholder farmers,1406,10,0.7833,0.6500,0.5233
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Democratic elections,48258,10,0.9367,0.8000,0.7517
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Digital financial services,34424,9,0.5889,1.0000,0.5889
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Economics,767282,10,0.7600,0.9000,0.6900
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Education,5921253,10,0.8733,0.7500,0.6283
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Energy,8631334,10,0.8567,0.8500,0.7617
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Environmental Science,247835,9,0.8520,0.8889,0.7409
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Girls education,71707,10,0.4733,0.8500,0.3967
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Health,8504910,10,0.7332,0.7000,0.5333
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Infectious disease,469401,10,0.8068,0.8000,0.6584
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Insecticide-treated bed nets for malaria,1331,10,0.6767,0.9000,0.6401
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Malaria prevention,13463,10,0.8734,0.9500,0.8234
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Microfinance loan repayment,1341,10,0.8699,0.7500,0.6482
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Mini-grid electrification,747,10,0.6800,0.6000,0.4133
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Mobile banking,17971,10,0.8633,0.9000,0.8017
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Political Science,285942,10,0.7368,0.8500,0.5868
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Renewable energy,501950,10,0.7400,0.9500,0.6950
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Rural electrification,9391,9,0.6332,0.8333,0.5369
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,School dropout,19413,10,0.8200,1.0000,0.8200
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,School dropout prevention programs in rural areas,32,9,0.3110,0.5000,0.1555
+Llama 4 Maverick,llama_4_maverick_400b_a17b,17,400,moe,Voter turnout,10283,10,0.9233,0.7500,0.6916
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Biometric voter registration,171,10,0.1000,1.0000,0.1000
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Climate change,1222665,9,0.2556,0.6667,0.2000
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Climate change adaptation in agriculture,25815,9,0.2074,0.7222,0.1815
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Climate-smart agriculture for smallholder farmers,1406,10,0.3134,0.6000,0.1567
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Democratic elections,48258,9,0.5889,0.5556,0.3500
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Digital financial services,34424,10,0.0900,1.0000,0.0900
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Economics,767282,10,0.8800,0.8500,0.7484
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Education,5921253,10,0.4800,0.9000,0.4300
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Energy,8631334,10,0.1700,0.7000,0.0850
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Environmental Science,247835,9,0.3962,0.7778,0.2722
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Girls education,71707,10,0.1700,0.8500,0.1266
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Health,8504910,10,0.1234,0.8500,0.0650
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Infectious disease,469401,10,0.1633,0.8000,0.1633
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Insecticide-treated bed nets for malaria,1331,10,0.2500,0.8500,0.2250
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Malaria prevention,13463,10,0.1367,0.8500,0.1367
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Microfinance loan repayment,1341,10,0.2166,0.6000,0.1383
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Mini-grid electrification,747,10,0.1000,1.0000,0.1000
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Mobile banking,17971,10,0.1300,0.9000,0.0800
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Political Science,285942,10,0.8534,0.8000,0.6851
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Renewable energy,501950,10,0.3433,0.8000,0.2433
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Rural electrification,9391,10,0.1333,0.9000,0.1333
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,School dropout,19413,10,0.2000,1.0000,0.2000
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,School dropout prevention programs in rural areas,32,10,0.0000,0.6500,0.0000
+Llama 4 Scout,llama_4_scout_109b_a17b,17,109,moe,Voter turnout,10283,10,0.1067,0.8000,0.0617
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Biometric voter registration,171,10,0.0791,1.0000,0.0791
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Climate change,1222665,10,0.4201,0.9000,0.4117
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Climate change adaptation in agriculture,25815,10,0.4699,0.9000,0.3782
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Climate-smart agriculture for smallholder farmers,1406,10,0.1434,0.7500,0.0800
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Democratic elections,48258,10,0.2633,0.8500,0.2216
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Digital financial services,34424,10,0.2566,0.9000,0.1816
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Economics,767282,10,0.8800,0.8000,0.7400
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Education,5921253,10,0.5191,0.8000,0.4312
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Energy,8631334,10,0.4333,0.8000,0.4083
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Environmental Science,247835,9,0.4926,1.0000,0.4926
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Girls education,71707,10,0.1674,0.9000,0.1661
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Health,8504910,10,0.4717,0.9000,0.4205
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Infectious disease,469401,10,0.7333,0.9000,0.6733
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Insecticide-treated bed nets for malaria,1331,10,0.2000,0.9500,0.1500
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Malaria prevention,13463,10,0.4199,0.8500,0.3483
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Microfinance loan repayment,1341,10,0.2199,0.8000,0.1482
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Mini-grid electrification,747,10,0.1299,1.0000,0.1299
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Mobile banking,17971,10,0.1167,1.0000,0.1167
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Political Science,285942,10,0.6567,0.9000,0.6184
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Renewable energy,501950,10,0.3600,0.9000,0.3100
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Rural electrification,9391,10,0.0775,1.0000,0.0775
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,School dropout,19413,10,0.5533,0.9000,0.4833
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,School dropout prevention programs in rural areas,32,10,0.2000,0.7500,0.1000
+MiniMax M2.5,minimax_m25_230b_a10b,10,230,moe,Voter turnout,10283,10,0.2433,1.0000,0.2433
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Biometric voter registration,171,10,0.0000,1.0000,0.0000
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Climate change,1222665,10,0.9100,0.8500,0.7650
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Climate change adaptation in agriculture,25815,10,0.5133,0.7500,0.3183
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.1133,0.8000,0.0566
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Democratic elections,48258,10,0.8034,0.7000,0.5534
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Digital financial services,34424,10,0.4433,0.9000,0.3716
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Economics,767282,10,0.9233,0.8500,0.7867
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Education,5921253,10,0.8900,0.8000,0.7167
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Energy,8631334,10,0.5933,0.9000,0.5433
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Environmental Science,247835,10,0.0067,0.9500,0.0067
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Girls education,71707,10,0.2033,0.9500,0.1917
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Health,8504910,10,0.8034,0.7500,0.5534
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Infectious disease,469401,10,0.8100,0.9000,0.7300
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Insecticide-treated bed nets for malaria,1331,9,0.1668,0.7778,0.0982
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Malaria prevention,13463,10,0.0100,0.9500,0.0100
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Microfinance loan repayment,1341,10,0.5067,0.6500,0.2683
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Mini-grid electrification,747,9,0.0999,0.8333,0.0869
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Mobile banking,17971,10,0.0433,1.0000,0.0433
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Political Science,285942,10,0.8967,1.0000,0.8967
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Renewable energy,501950,10,0.4733,0.9500,0.4233
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Rural electrification,9391,10,0.2066,1.0000,0.2066
+Mistral Large 2,mistral_large_2_123b,123,123,dense,School dropout,19413,10,0.5900,0.9500,0.5900
+Mistral Large 2,mistral_large_2_123b,123,123,dense,School dropout prevention programs in rural areas,32,10,0.3367,0.6500,0.1683
+Mistral Large 2,mistral_large_2_123b,123,123,dense,Voter turnout,10283,7,0.4524,0.7857,0.3810
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Biometric voter registration,171,10,0.2400,0.8500,0.1400
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Climate change,1222665,8,0.7960,0.9375,0.7335
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Climate change adaptation in agriculture,25815,9,0.7667,0.8333,0.6222
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.2867,0.6500,0.1933
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Democratic elections,48258,10,0.8666,0.5500,0.4783
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Digital financial services,34424,10,0.7400,0.8500,0.6650
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Economics,767282,9,0.9667,0.8889,0.8611
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Education,5921253,10,0.7334,0.8500,0.5950
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Energy,8631334,9,0.8519,0.8333,0.7001
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Environmental Science,247835,10,0.9401,0.9500,0.9018
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Girls education,71707,10,0.5767,0.7500,0.3817
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Health,8504910,10,0.7333,0.8000,0.6017
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Infectious disease,469401,10,0.9033,1.0000,0.9033
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Insecticide-treated bed nets for malaria,1331,10,0.4834,0.8000,0.4000
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Malaria prevention,13463,10,0.6467,0.8500,0.5467
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Microfinance loan repayment,1341,10,0.5175,0.4500,0.2538
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Mini-grid electrification,747,10,0.1999,0.6500,0.1166
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Mobile banking,17971,10,0.5999,0.9000,0.5549
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Political Science,285942,10,0.8834,1.0000,0.8834
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Renewable energy,501950,10,0.9100,0.9000,0.8100
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Rural electrification,9391,10,0.2700,1.0000,0.2700
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,School dropout,19413,7,0.7250,1.0000,0.7250
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,School dropout prevention programs in rural areas,32,10,0.8800,0.5000,0.4300
+Mistral Medium 3.1,mistral_medium_31_250b,250,250,dense,Voter turnout,10283,10,0.7534,0.8500,0.6784
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Biometric voter registration,171,10,0.0267,0.8000,0.0217
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Climate change,1222665,9,0.5964,0.7778,0.4501
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Climate change adaptation in agriculture,25815,9,0.5407,0.6667,0.2962
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Climate-smart agriculture for smallholder farmers,1406,5,0.3334,0.8000,0.2667
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Democratic elections,48258,10,0.6434,0.6000,0.3951
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Digital financial services,34424,10,0.3066,0.9000,0.2949
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Economics,767282,10,0.6033,0.8500,0.4867
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Education,5921253,10,0.7267,0.8000,0.5584
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Energy,8631334,10,0.5199,0.8000,0.4216
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Environmental Science,247835,9,0.7147,1.0000,0.7147
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Girls education,71707,10,0.3434,0.7000,0.1900
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Health,8504910,10,0.1200,0.8000,0.1100
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Infectious disease,469401,10,0.2567,1.0000,0.2567
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Insecticide-treated bed nets for malaria,1331,10,0.2066,0.9500,0.1566
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Malaria prevention,13463,10,0.4200,0.8000,0.3233
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Microfinance loan repayment,1341,10,0.3566,0.6000,0.1950
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Mini-grid electrification,747,10,0.1498,0.8500,0.1115
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Mobile banking,17971,10,0.0200,0.9500,0.0200
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Political Science,285942,10,0.8100,0.9000,0.7150
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Renewable energy,501950,10,0.4566,0.9500,0.4350
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Rural electrification,9391,10,0.2732,0.9500,0.2365
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,School dropout,19413,9,0.3037,0.8889,0.1981
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,School dropout prevention programs in rural areas,32,10,0.2399,0.5000,0.1200
+Mistral Small 3.2,mistral_small_32_24b,24,24,dense,Voter turnout,10283,10,0.5734,0.8500,0.4900
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Biometric voter registration,171,10,0.2742,0.6500,0.1008
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Climate change,1222665,10,0.8800,0.9000,0.8000
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Climate change adaptation in agriculture,25815,10,0.6850,0.8500,0.5600
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Climate-smart agriculture for smallholder farmers,1406,10,0.0033,0.9500,0.0033
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Democratic elections,48258,10,0.7633,0.7500,0.5566
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Digital financial services,34424,10,0.5867,0.9000,0.4934
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Economics,767282,10,0.8300,0.9500,0.8100
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Education,5921253,10,0.8233,0.9000,0.7433
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Energy,8631334,10,0.5600,0.9500,0.5300
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Environmental Science,247835,10,0.9150,1.0000,0.9150
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Girls education,71707,10,0.3733,0.7500,0.2566
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Health,8504910,10,0.8767,1.0000,0.8767
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Infectious disease,469401,10,0.7450,0.9500,0.6950
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Insecticide-treated bed nets for malaria,1331,10,0.3050,0.6500,0.2213
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Malaria prevention,13463,10,0.5567,0.8500,0.4467
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Microfinance loan repayment,1341,10,0.4175,0.5500,0.2087
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Mini-grid electrification,747,10,0.2825,0.9500,0.2437
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Mobile banking,17971,10,0.3175,1.0000,0.3175
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Political Science,285942,10,0.9367,0.9500,0.8867
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Renewable energy,501950,10,0.5633,0.8500,0.4650
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Rural electrification,9391,10,0.2875,0.9500,0.2825
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,School dropout,19413,10,0.5900,0.8500,0.5500
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,School dropout prevention programs in rural areas,32,10,0.3283,0.5500,0.1641
+Mixtral 8x22B,mixtral_8x22b_141b_a39b,39,141,moe,Voter turnout,10283,10,0.7933,0.9000,0.7067
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Biometric voter registration,171,3,0.0000,1.0000,0.0000
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Climate change,1222665,3,0.6000,1.0000,0.6000
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Climate change adaptation in agriculture,25815,10,0.8867,0.8000,0.7367
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Climate-smart agriculture for smallholder farmers,1406,7,0.0190,1.0000,0.0190
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Democratic elections,48258,10,0.5400,0.6500,0.3600
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Digital financial services,34424,7,0.1619,1.0000,0.1619
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Economics,767282,10,0.8467,1.0000,0.8467
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Education,5921253,10,0.8467,0.9000,0.7600
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Energy,8631334,10,0.0000,1.0000,0.0000
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Environmental Science,247835,10,0.5567,0.9500,0.5567
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Girls education,71707,10,0.0233,0.8000,0.0117
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Health,8504910,10,0.6577,1.0000,0.6577
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Infectious disease,469401,2,0.5000,0.7500,0.2500
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Insecticide-treated bed nets for malaria,1331,9,0.0620,0.9444,0.0417
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Malaria prevention,13463,10,0.0000,0.7500,0.0000
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Microfinance loan repayment,1341,10,0.2100,0.6000,0.1083
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Mini-grid electrification,747,10,0.0000,1.0000,0.0000
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Mobile banking,17971,10,0.0600,1.0000,0.0600
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Political Science,285942,10,0.8967,0.9000,0.7967
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Renewable energy,501950,8,0.0000,1.0000,0.0000
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Rural electrification,9391,10,0.0000,0.8500,0.0000
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,School dropout,19413,9,0.1407,0.8333,0.1407
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,School dropout prevention programs in rural areas,32,10,0.0200,0.4500,0.0000
+Mixtral 8x7B,mixtral_8x7b_47b_a13b,13,47,moe,Voter turnout,10283,10,0.1000,0.9500,0.1000
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Biometric voter registration,171,10,0.0100,1.0000,0.0100
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Climate change,1222665,10,0.9500,1.0000,0.9500
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Climate change adaptation in agriculture,25815,1,1.0000,1.0000,1.0000
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Climate-smart agriculture for smallholder farmers,1406,10,0.5567,0.9500,0.5133
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Democratic elections,48258,10,0.9533,0.8500,0.8133
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Digital financial services,34424,10,0.8000,0.7500,0.6450
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Economics,767282,10,1.0000,1.0000,1.0000
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Education,5921253,10,0.9867,1.0000,0.9867
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Energy,8631334,10,0.8500,0.9500,0.8250
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Environmental Science,247835,10,0.7667,1.0000,0.7667
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Girls education,71707,8,0.4708,0.8750,0.3874
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Health,8504910,10,0.9401,1.0000,0.9401
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Infectious disease,469401,10,0.9867,1.0000,0.9867
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Insecticide-treated bed nets for malaria,1331,10,0.3233,0.9500,0.3066
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Malaria prevention,13463,10,0.6867,0.9000,0.6383
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Microfinance loan repayment,1341,10,0.7533,0.8000,0.5583
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Mini-grid electrification,747,10,0.1566,1.0000,0.1566
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Mobile banking,17971,10,0.5400,1.0000,0.5400
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Political Science,285942,10,0.9767,0.9000,0.8767
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Renewable energy,501950,10,0.8167,0.9000,0.7367
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Rural electrification,9391,10,0.4600,1.0000,0.4600
+Qwen3.5,qwen35_397b_a17b,17,397,moe,School dropout,19413,2,1.0000,1.0000,1.0000
+Qwen3.5,qwen35_397b_a17b,17,397,moe,School dropout prevention programs in rural areas,32,10,0.4799,0.5500,0.2766
+Qwen3.5,qwen35_397b_a17b,17,397,moe,Voter turnout,10283,10,0.5900,1.0000,0.5900
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Biometric voter registration,171,10,0.0200,1.0000,0.0200
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Climate change,1222665,10,0.3858,0.9500,0.3858
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Climate change adaptation in agriculture,25815,10,0.3158,0.5500,0.1629
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.2050,0.7000,0.1537
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Democratic elections,48258,10,0.2958,0.6000,0.1479
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Digital financial services,34424,10,0.0800,0.8500,0.0738
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Economics,767282,10,0.5809,0.8500,0.5409
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Education,5921253,10,0.7517,0.9500,0.7142
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Energy,8631334,10,0.2325,1.0000,0.2325
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Environmental Science,247835,9,0.1546,0.9444,0.1532
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Girls education,71707,10,0.3833,0.7500,0.2767
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Health,8504910,10,0.0983,0.6500,0.0908
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Infectious disease,469401,10,0.3400,0.9500,0.3350
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Insecticide-treated bed nets for malaria,1331,10,0.3842,0.9500,0.3567
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Malaria prevention,13463,10,0.3066,0.7500,0.2150
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Microfinance loan repayment,1341,10,0.1150,0.6000,0.0588
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Mini-grid electrification,747,10,0.1500,0.9000,0.1437
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Mobile banking,17971,10,0.1150,1.0000,0.1150
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Political Science,285942,10,0.4800,0.8000,0.4350
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Renewable energy,501950,10,0.2600,0.8000,0.2175
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Rural electrification,9391,10,0.1375,0.9500,0.1325
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,School dropout,19413,10,0.1925,0.5500,0.1279
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,School dropout prevention programs in rural areas,32,10,0.3399,0.5000,0.1416
+Qwen3 14B nothink,qwen3_14b_nothink,14,14,dense,Voter turnout,10283,10,0.2483,0.9000,0.2267
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Biometric voter registration,171,10,0.0025,0.9500,0.0025
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Climate change,1222665,10,0.6658,0.9000,0.5958
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Climate change adaptation in agriculture,25815,10,0.1516,0.7500,0.0987
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.1150,0.8000,0.1088
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Democratic elections,48258,10,0.2999,0.6000,0.1916
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Digital financial services,34424,10,0.1708,0.7500,0.1292
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Economics,767282,10,0.6833,0.8500,0.6417
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Education,5921253,10,0.3033,0.7500,0.2358
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Energy,8631334,10,0.1250,1.0000,0.1250
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Environmental Science,247835,10,0.2242,0.8500,0.2083
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Girls education,71707,10,0.2099,0.8000,0.1466
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Health,8504910,10,0.1858,0.7500,0.1808
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Infectious disease,469401,10,0.0917,0.9500,0.0917
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Insecticide-treated bed nets for malaria,1331,10,0.2441,0.9000,0.2154
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Malaria prevention,13463,10,0.0950,0.9000,0.0938
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Microfinance loan repayment,1341,10,0.1483,0.1500,0.0566
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Mini-grid electrification,747,10,0.0933,0.9500,0.0933
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Mobile banking,17971,10,0.0725,0.9000,0.0412
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Political Science,285942,10,0.4817,0.8500,0.3992
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Renewable energy,501950,10,0.2200,0.8000,0.1712
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Rural electrification,9391,10,0.0750,1.0000,0.0750
+Qwen3 14B think,qwen3_14b_think,14,14,dense,School dropout,19413,10,0.3684,0.7000,0.1942
+Qwen3 14B think,qwen3_14b_think,14,14,dense,School dropout prevention programs in rural areas,32,10,0.0966,0.7000,0.0067
+Qwen3 14B think,qwen3_14b_think,14,14,dense,Voter turnout,10283,10,0.1225,0.7000,0.0675
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Biometric voter registration,171,10,0.0000,1.0000,0.0000
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Climate change,1222665,10,0.4583,1.0000,0.4583
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Climate change adaptation in agriculture,25815,10,0.2066,0.9500,0.1933
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Climate-smart agriculture for smallholder farmers,1406,10,0.1825,0.9500,0.1375
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Democratic elections,48258,10,0.1733,0.6500,0.1100
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Digital financial services,34424,10,0.3199,0.8500,0.2899
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Economics,767282,10,0.6467,1.0000,0.6467
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Education,5921253,10,0.3300,1.0000,0.3300
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Energy,8631334,10,0.2999,1.0000,0.2999
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Environmental Science,247835,10,0.3034,1.0000,0.3034
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Girls education,71707,10,0.1266,0.9000,0.0966
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Health,8504910,10,0.2099,1.0000,0.2099
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Infectious disease,469401,10,0.1633,0.9500,0.1316
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Insecticide-treated bed nets for malaria,1331,10,0.1000,1.0000,0.1000
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Malaria prevention,13463,10,0.0916,0.9500,0.0903
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Microfinance loan repayment,1341,10,0.2833,0.6500,0.1917
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Mini-grid electrification,747,10,0.1333,1.0000,0.1333
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Mobile banking,17971,10,0.0167,1.0000,0.0167
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Political Science,285942,10,0.4933,0.9000,0.4383
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Renewable energy,501950,10,0.2616,1.0000,0.2616
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Rural electrification,9391,10,0.0663,1.0000,0.0663
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,School dropout,19413,10,0.2675,0.7500,0.1387
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,School dropout prevention programs in rural areas,32,10,0.0100,0.9000,0.0100
+Qwen3 30B-A3B,qwen3_30b_a3b,3,30,moe,Voter turnout,10283,10,0.0133,0.9000,0.0133
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Biometric voter registration,171,10,0.0575,0.7500,0.0275
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Climate change,1222665,10,0.4900,0.9000,0.4450
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Climate change adaptation in agriculture,25815,10,0.4341,0.5500,0.2545
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.3334,0.9000,0.2834
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Democratic elections,48258,10,0.2100,0.6500,0.1050
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Digital financial services,34424,10,0.1933,0.5500,0.0966
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Economics,767282,10,0.9300,0.8000,0.7484
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Education,5921253,10,0.9066,0.8500,0.7816
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Energy,8631334,10,0.4700,0.9000,0.4350
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Environmental Science,247835,9,0.7296,1.0000,0.7296
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Girls education,71707,10,0.1633,0.7000,0.0400
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Health,8504910,10,0.1832,0.8500,0.1666
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Infectious disease,469401,10,0.7000,0.9500,0.7000
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Insecticide-treated bed nets for malaria,1331,10,0.3434,0.8500,0.2434
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Malaria prevention,13463,10,0.4366,0.5500,0.2383
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Microfinance loan repayment,1341,10,0.3000,0.6000,0.1583
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Mini-grid electrification,747,10,0.0133,1.0000,0.0133
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Mobile banking,17971,10,0.0908,1.0000,0.0908
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Political Science,285942,10,0.8034,0.7500,0.6217
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Renewable energy,501950,10,0.5125,0.7500,0.3463
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Rural electrification,9391,10,0.0333,0.9500,0.0333
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,School dropout,19413,10,0.1617,0.9000,0.1355
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,School dropout prevention programs in rural areas,32,10,0.0000,1.0000,0.0000
+Qwen3 32B nothink,qwen3_32b_nothink,32,32,dense,Voter turnout,10283,10,0.1966,0.9500,0.1466
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Biometric voter registration,171,10,0.0633,1.0000,0.0633
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Climate change,1222665,10,0.5233,0.9500,0.4933
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Climate change adaptation in agriculture,25815,10,0.6583,0.6500,0.4158
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.1350,0.8500,0.1288
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Democratic elections,48258,9,0.0194,0.7778,0.0167
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Digital financial services,34424,10,0.0833,0.9500,0.0416
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Economics,767282,10,0.7733,0.9500,0.7233
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Education,5921253,10,0.7232,0.8000,0.5916
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Energy,8631334,10,0.2833,0.9000,0.2733
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Environmental Science,247835,10,0.4499,0.8000,0.3183
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Girls education,71707,10,0.2132,0.8500,0.1349
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Health,8504910,10,0.1866,0.9000,0.1866
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Infectious disease,469401,10,0.1366,0.8000,0.1300
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Insecticide-treated bed nets for malaria,1331,10,0.0000,0.9500,0.0000
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Malaria prevention,13463,10,0.4325,0.7000,0.2413
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Microfinance loan repayment,1341,9,0.2028,0.5556,0.1014
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Mini-grid electrification,747,10,0.1275,1.0000,0.1275
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Mobile banking,17971,10,0.0333,0.9500,0.0283
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Political Science,285942,10,0.4617,0.7500,0.3233
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Renewable energy,501950,10,0.3525,0.9500,0.3513
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Rural electrification,9391,10,0.2066,1.0000,0.2066
+Qwen3 32B think,qwen3_32b_think,32,32,dense,School dropout,19413,10,0.1899,0.9000,0.1732
+Qwen3 32B think,qwen3_32b_think,32,32,dense,School dropout prevention programs in rural areas,32,10,0.0000,0.9500,0.0000
+Qwen3 32B think,qwen3_32b_think,32,32,dense,Voter turnout,10283,10,0.0600,0.8000,0.0462
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Biometric voter registration,171,10,0.0000,0.9500,0.0000
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Climate change,1222665,10,0.1250,0.9000,0.1237
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Climate change adaptation in agriculture,25815,10,0.0500,1.0000,0.0500
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Climate-smart agriculture for smallholder farmers,1406,6,0.1917,0.8333,0.1208
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Democratic elections,48258,10,0.1000,0.8000,0.0500
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Digital financial services,34424,10,0.1100,0.9000,0.0667
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Economics,767282,10,0.0550,0.8000,0.0387
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Education,5921253,10,0.0150,0.8500,0.0138
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Energy,8631334,10,0.0600,0.7500,0.0400
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Environmental Science,247835,10,0.0925,0.9500,0.0912
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Girls education,71707,10,0.0200,1.0000,0.0200
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Health,8504910,10,0.0350,0.8000,0.0288
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Infectious disease,469401,10,0.0375,0.9500,0.0350
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Insecticide-treated bed nets for malaria,1331,10,0.0225,0.9500,0.0225
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Malaria prevention,13463,9,0.1444,0.6667,0.0722
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Microfinance loan repayment,1341,10,0.0450,0.7500,0.0288
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Mini-grid electrification,747,10,0.0450,1.0000,0.0450
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Mobile banking,17971,10,0.0300,1.0000,0.0300
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Political Science,285942,10,0.1250,0.7500,0.1125
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Renewable energy,501950,10,0.0550,0.9000,0.0525
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Rural electrification,9391,10,0.2349,0.9500,0.2336
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,School dropout,19413,10,0.0250,0.9000,0.0250
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,School dropout prevention programs in rural areas,32,10,0.0025,1.0000,0.0025
+Qwen3 8B nothink,qwen3_8b_nothink,8,8,dense,Voter turnout,10283,10,0.0100,0.9500,0.0100
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Biometric voter registration,171,10,0.0466,0.9500,0.0350
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Climate change,1222665,10,0.3558,0.8000,0.3058
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Climate change adaptation in agriculture,25815,10,0.0400,1.0000,0.0400
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Climate-smart agriculture for smallholder farmers,1406,10,0.1575,0.6000,0.1163
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Democratic elections,48258,10,0.0233,0.8000,0.0233
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Digital financial services,34424,10,0.0875,0.9000,0.0625
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Economics,767282,10,0.2833,0.7500,0.1917
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Education,5921253,10,0.4283,0.9000,0.3833
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Energy,8631334,10,0.1166,0.7000,0.0800
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Environmental Science,247835,10,0.2632,0.9000,0.2582
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Girls education,71707,10,0.1366,0.7500,0.0774
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Health,8504910,10,0.0567,0.8500,0.0433
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Infectious disease,469401,10,0.0783,0.8500,0.0454
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Insecticide-treated bed nets for malaria,1331,10,0.2233,0.8500,0.1183
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Malaria prevention,13463,10,0.1600,0.8500,0.0934
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Microfinance loan repayment,1341,9,0.0444,0.5556,0.0222
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Mini-grid electrification,747,10,0.1658,0.9500,0.1608
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Mobile banking,17971,10,0.0333,0.9500,0.0167
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Political Science,285942,10,0.0800,0.7000,0.0634
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Renewable energy,501950,9,0.2361,0.7778,0.1736
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Rural electrification,9391,10,0.0500,0.9500,0.0413
+Qwen3 8B think,qwen3_8b_think,8,8,dense,School dropout,19413,10,0.2250,0.8500,0.1888
+Qwen3 8B think,qwen3_8b_think,8,8,dense,School dropout prevention programs in rural areas,32,10,0.0050,0.9500,0.0050
+Qwen3 8B think,qwen3_8b_think,8,8,dense,Voter turnout,10283,10,0.0433,0.8500,0.0267
